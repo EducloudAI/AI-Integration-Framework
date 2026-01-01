@@ -143,9 +143,18 @@ A: That's the point! The framework reveals knowledge gaps. Use it to identify wh
 
 Found an issue? Have a suggestion?
 
-[Open an Issue](https://github.com/EducloudAI/AI-Integration-Framework/issues)
-[Submit a Pull Request](https://github.com/EducloudAI/AI-Integration-Framework/pulls)
-[Join the Discussion](https://github.com/EducloudAI/AI-Integration-Framework/discussions)
+- [Open an Issue](https://github.com/EducloudAI/AI-Integration-Framework/issues)
+- [Submit a Pull Request](https://github.com/EducloudAI/AI-Integration-Framework/pulls)
+- [Join the Discussion](https://github.com/EducloudAI/AI-Integration-Framework/discussions)
 
 *Maintained by [EducloudAI](https://educloud-ai.vercel.app/)*
 
+## 📝 Contribution & Feedback
+
+Found an issue? Have a suggestion?
+
+<a href="https://github.com/EducloudAI/AI-Integration-Framework/issues">Open an Issue</a><br>
+<a href="https://github.com/EducloudAI/AI-Integration-Framework/pulls">Submit a Pull Request</a><br>
+<a href="https://github.com/EducloudAI/AI-Integration-Framework/discussions">Join the Discussion</a>
+
+<em>Maintained by <a href="https://educloud-ai.vercel.app/">EducloudAI</a></em>
