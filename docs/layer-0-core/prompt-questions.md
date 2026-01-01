@@ -36,7 +36,7 @@
 ## 📥 Download Templates
 
 ### Excel Template (Recommended)
-**[📥 prompt-framework-template.xlsx](prompt-framework-template.xlsx)**
+**[📥 prompt-framework-template.xlsx](templates/prompt-framework-template.xlsx)**
 *Complete 25-question framework with:*
 - Sector-specific examples (Healthcare, Finance, Education, Government, Retail, Logistics)
 - AI Act compliance checklist
