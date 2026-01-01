@@ -13,7 +13,15 @@ Without a standardized approach, organizations face:
 - **Hidden risks** in poorly defined prompts
 - **Wasted resources** on trial-and-error prompting
 
-Layer 0 solves this by providing a **common language and structure** for AI communication.
+Layer 0 solves this through a universal 25 question framework that works across every sector including healthcare, finance, education and government. It creates a common language that turns domain expertise into precise AI instructions regardless of industry.
+
+**Universal application examples:**
+- **Healthcare:** Draft patient discharge instructions
+- **Finance:** Generate regulatory compliance summaries  
+- **Education:** Create personalized learning plans
+- **Government:** Draft public service responses
+- **Retail:** Generate product descriptions
+- **Logistics:** Optimize delivery routes
 
 ## 🔧 The Prompt Framework: 25 Questions
 
