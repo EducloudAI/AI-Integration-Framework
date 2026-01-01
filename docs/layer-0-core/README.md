@@ -70,7 +70,9 @@ A filled template becomes a **Prompt Definition** - a living document that:
 ## 📊 Real-World Example
 
 ### Before: Vague Instruction
-
+```
+"Help me with customer service emails"
+```
 
 ### After: Layer 0 Prompt Definition
 ```yaml
@@ -83,8 +85,9 @@ quality_criteria: "Must include: 1) Acknowledgement 2) Current status 3) Next st
 human_oversight: "Customer service agent reviews and sends"
 success_criteria: "Reduces agent drafting time by 70%, maintains CSAT > 4.5/5"
 constraints: "No financial advice, no promises beyond policy, no personal data exposure"
+```
 
-Result: Consistent, reliable AI outputs that align with business goals.
+**Result:** Consistent, reliable AI outputs that align with business goals.
 
 ## 📁 Templates & Resources
 
@@ -148,13 +151,3 @@ Found an issue? Have a suggestion?
 - [Join the Discussion](https://github.com/EducloudAI/AI-Integration-Framework/discussions)
 
 *Maintained by [EducloudAI](https://educloud-ai.vercel.app/)*
-
-## 📝 Contribution & Feedback
-
-Found an issue? Have a suggestion?
-
-<a href="https://github.com/EducloudAI/AI-Integration-Framework/issues">Open an Issue</a><br>
-<a href="https://github.com/EducloudAI/AI-Integration-Framework/pulls">Submit a Pull Request</a><br>
-<a href="https://github.com/EducloudAI/AI-Integration-Framework/discussions">Join the Discussion</a>
-
-<em>Maintained by <a href="https://educloud-ai.vercel.app/">EducloudAI</a></em>
