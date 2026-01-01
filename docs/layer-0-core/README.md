@@ -92,22 +92,22 @@ Result: Consistent, reliable AI outputs that align with business goals.
 
 | Template | Format | Best For |
 |----------|--------|----------|
-| [prompt-framework-template.xlsx](../../templates/prompt-framework-template.xlsx) | Excel | Collaborative business teams |
-| [prompt-definition.json](../../templates/prompt-definition.json) | JSON | Developers & automated systems |
-| [quick-start-guide.md](../../templates/quick-start-guide.md) | Markdown | Fast prototyping |
+| [📥 Prompt Framework Template](../templates/prompt-framework-template.xlsx) | Excel | Collaborative business teams |
+| [📥 Prompt Definition JSON](../templates/prompt-definition.json) | JSON | Developers & automated systems |
+| [📖 Quick Start Guide](../templates/quick-start-guide.md) | Markdown | Fast prototyping |
 
 ### Example Implementations
 
-- [Customer Service Assistant](../../examples/customer-service/README.md)
-- [HR Onboarding Bot](../../examples/hr-onboarding/README.md)
-- [Marketing Content Generator](../../examples/marketing-content/README.md)
+- [👨‍💼 Customer Service Assistant](../examples/customer-service/)
+- [👥 HR Onboarding Bot](../examples/hr-onboarding/)
+- [📢 Marketing Content Generator](../examples/marketing-content/)
 
 ## 🎓 Learning Path
 
 ### For Beginners
 1. Start with **Tier 1 questions only**
 2. Practice with non-critical use cases
-3. Review the [example implementations](../../examples/)
+3. Review the [example implementations](../examples/)
 
 ### For Advanced Users
 1. Master both Tier 1 and Tier 2
