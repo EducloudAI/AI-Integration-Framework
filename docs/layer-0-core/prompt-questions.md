@@ -33,9 +33,23 @@
 24. **Training Requirements** - User competency and certification needs
 25. **Documentation Standards** - Format, storage, and maintenance procedures
 
-## Download Templates
-- [📥 Excel Template](../templates/prompt-framework-template.xlsx) - Editable spreadsheet with all questions
-- [📄 JSON Template](../templates/prompt-definition.json) - Machine-readable format for developers
+## 📥 Download Templates
+
+### Excel Template (Recommended)
+**[📥 prompt-framework-template.xlsx](../templates/prompt-framework-template.xlsx)**  
+*Complete 25-question framework with:*
+- Sector-specific examples (Healthcare, Finance, Education, Government, Retail, Logistics)
+- AI Act compliance checklist
+- Auto-quality scoring
+- One-click export to JSON/YAML
+
+### Online Collaborative Version
+**[🌐 Google Sheets Copy](https://docs.google.com/spreadsheets/d/...)**  
+*Make a copy to collaborate with your team*
+
+### JSON Template (for Developers)
+**[📄 prompt-definition.json](../templates/prompt-definition.json)**  
+*Machine-readable format for API integration*
 
 ## Usage Tips
 - **Start with Tier 1** for most use cases
