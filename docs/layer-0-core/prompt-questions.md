@@ -51,9 +51,6 @@
 **[📄 prompt-definition.json](../templates/prompt-definition.json)**  
 *Machine-readable format for API integration*
 
-## Tier 1: Essentials (10 Questions)
-[Je bestaande content hier...]
-
 ## Usage Tips
 - **Start with Tier 1** for most use cases
 - **Add Tier 2 questions** when dealing with:
