@@ -8,7 +8,7 @@
 
 ## 🚀 The Problem: Scaling AI is Chaotic
 
-Organizations are drowning in AI experiments. Every application now has its own AI agent such as Copilot, ChatGPT, Gemini or custom models, each requiring prompts that quickly grow from dozens to hundreds and eventually thousands. This leads to critical and unanswered questions:
+Organizations are drowning in AI experiments. Today, only some applications include an AI agent, but this is rapidly becoming the standard. Applications such as Copilot, ChatGPT, Gemini or custom models require prompts that quickly grow from dozens to hundreds and eventually thousands. This leads to critical and unanswered questions:
 
 *   **Governance:** How do we ensure quality, security, and compliance?
 *   **Management:** How do we version, test, and maintain prompts?
