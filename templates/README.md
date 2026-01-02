@@ -42,6 +42,7 @@ A complete implementation example using **Layer 0: Core Prompt Framework** to cr
 4. **Customize** for your specific business context
 
 ### JSON Output (Generated from Template)
+
 ```json
 {
   "task_description": "Generate first-draft responses to common customer inquiries",
@@ -50,37 +51,68 @@ A complete implementation example using **Layer 0: Core Prompt Framework** to cr
   "quality_criteria": "Accurate, empathetic, includes tracking link",
   "human_oversight": "Agent reviews before sending"
 }
+```
 
 ## Results & Metrics
 
-- **Before AI:** 15 minutes average per email response
-- **After AI:** 5 minutes average (67% reduction)
-- **Consistency:** 95% brand voice alignment (vs. 70% previously)
-- **Customer Satisfaction:** 4.6/5 average (maintained)
+**Before AI:** 15 minutes average per email response  
+
+**After AI:** 5 minutes average (67% reduction)  
+
+**Consistency:** 95% brand voice alignment (vs. 70% previously)  
+
+**Customer Satisfaction:** 4.6 out of 5 average and maintained  
 
 ## Testing Scenarios
 
-1. **Order Status Inquiry** → Provides tracking info + expected delivery
-2. **Return Request** → Explains return process + provides RMA number
-3. **Size/Product Question** → Links to size guide + suggests alternatives
-4. **Shipping Delay** → Apologizes + provides updated ETA + coupon if appropriate
+1. **Order Status Inquiry**  
+   Provides tracking info and expected delivery  
+
+2. **Return Request**  
+   Explains return process and provides RMA number  
+
+3. **Size or Product Question**  
+   Links to size guide and suggests alternatives  
+
+4. **Shipping Delay**  
+   Apologizes and provides updated ETA plus coupon if appropriate  
 
 ## Integration Steps
 
-1. **Start small:** Implement for 1-2 most common inquiry types
-2. **Train team:** Conduct 30-minute workshop on AI collaboration
-3. **Monitor:** Weekly review of AI-generated drafts
-4. **Iterate:** Update prompt based on agent feedback
+1. **Start small**  
+   Implement for one or two most common inquiry types  
+
+2. **Train team**  
+   Conduct 30 minute workshop on AI collaboration  
+
+3. **Monitor**  
+   Weekly review of AI generated drafts  
+
+4. **Iterate**  
+   Update prompt based on agent feedback  
 
 ## Files in This Example
 
-- `prompt-definition.json` - Complete prompt specification
-- `sample-conversations.md` - Real customer-AI interaction examples
-- `implementation-guide.md` - Step-by-step rollout plan
+`prompt-definition.json`  
+Complete prompt specification  
+
+`sample-conversations.md`  
+Real customer and AI interaction examples  
+
+`implementation-guide.md`  
+Step by step rollout plan  
 
 ## Related Resources
 
-- [Layer 0 Documentation](../docs/layer-0-core/README.md)
-- [Excel Template](../../templates/prompt-framework-template.xlsx)
-- [HR Onboarding Example](../hr-onboarding/README.md)
-- [Marketing Content Example](../marketing-content/README.md)
+[Layer 0 Documentation](../docs/layer-0-core/README.md)  
+[Excel Template](../../templates/prompt-framework-template.xlsx)  
+[HR Onboarding Example](../hr-onboarding/README.md)  
+[Marketing Content Example](../marketing-content/README.md)
+
+## Aanmaken
+
+````bash
+mkdir -p examples/customer-service
+echo '# 👨‍💼 Customer Service Assistant Example
+
+[Plaats hierboven de complete inhoud]' > examples/customer-service/README.md
