@@ -1,0 +1,54 @@
+{
+  "framework_version": "1.0",
+  "layer": 0,
+  "metadata": {
+    "name": "PROMPT_NAME",
+    "description": "Brief description of what this prompt does",
+    "author": "YOUR_NAME_OR_TEAM",
+    "version": "1.0.0",
+    "created_date": "YYYY-MM-DD",
+    "last_modified": "YYYY-MM-DD",
+    "status": "draft|review|approved|deprecated",
+    "domain": "e.g., healthcare, finance, education",
+    "sector": "e.g., patient_care, compliance, learning"
+  },
+  "tier1": {
+    "task_description": "",
+    "intended_use": "",
+    "non_intended_use": "",
+    "context": "",
+    "input": "",
+    "output": "",
+    "quality_criteria": "",
+    "human_oversight": "",
+    "success_criteria": "",
+    "constraints": ""
+  },
+  "tier2": {
+    "risk_awareness": "",
+    "business_alignment": "",
+    "legal_compliance": "",
+    "ethical_considerations": "",
+    "data_governance": "",
+    "version_control": "",
+    "testing_protocol": "",
+    "performance_metrics": "",
+    "security_requirements": "",
+    "audit_trail": "",
+    "stakeholder_roles": "",
+    "review_cycle": "",
+    "escalation_path": "",
+    "training_requirements": "",
+    "documentation_standards": ""
+  },
+  "compliance": {
+    "ai_act_risk_level": "high|medium|low",
+    "gdpr_relevant": true|false,
+    "sector_specific_regulations": []
+  },
+  "export_info": {
+    "exported_from": "AI Integration Framework v1.0",
+    "export_date": "YYYY-MM-DD",
+    "export_format": "json"
+  }
+}
