@@ -38,7 +38,7 @@
 ### Excel Template (Recommended)
 **[📥 prompt-framework-template.xlsx](https://github.com/EducloudAI/AI-Integration-Framework/raw/main/templates/prompt-framework-template.xlsx)**
 *Complete 25-question framework with:*
-- Sector-specific examples (Healthcare, Finance, Education, Government, Retail, Logistics)
+- Sector-specific examples (Healthcare, Finance, Education)
 - AI Act compliance checklist
 - Auto-quality scoring
 - One-click export to JSON/YAML
