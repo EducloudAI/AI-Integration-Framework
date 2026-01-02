@@ -43,13 +43,18 @@
 - Auto-quality scoring
 - One-click export to JSON/YAML
 
+### JSON Template (for Developers)
+**[📄 prompt-definition.json](../../templates/prompt-definition.json)**  
+*Machine-readable format for API integration:*
+- Structured JSON schema
+- Compatible with CI/CD pipelines
+- Version control ready
+- Easy to parse programmatically
+
 ### Online Collaborative Version
 **[🌐 Google Sheets Copy](https://docs.google.com/spreadsheets/d/...)**  
 *Make a copy to collaborate with your team*
 
-### JSON Template (for Developers)
-**[📄 prompt-definition.json][(templates/prompt-definition.json)](https://github.com/EducloudAI/AI-Integration-Framework/raw/main/templates/prompt-definition.json)**  
-*Machine-readable format for API integration*
 
 ## Usage Tips
 - **Start with Tier 1** for most use cases
