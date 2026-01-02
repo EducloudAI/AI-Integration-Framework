@@ -123,9 +123,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 🙏 Acknowledgements
 
-The AI Integration Framework is developed and maintained by **[Educloud](https://educloud-ai.vercel.app/)** as part of our mission to accelerate responsible and scalable AI adoption in Europe and beyond.
+The AI Integration Framework is developed and maintained by **[Educloud](https://educloudai.eu/)** as part of our mission to accelerate responsible and scalable AI adoption in Europe and beyond.
 
-*Educloud provides professional training, certification, and consultancy services to help organizations implement this framework. Learn more on our [website](https://educloud-ai.vercel.app/).*
+*Educloud provides professional training, certification, and consultancy services to help organizations implement this framework. Learn more on our [website](https://educloudai.eu/).*
 
 ## 🏢 For Organizations & Educational Institutions
 
