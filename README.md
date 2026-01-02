@@ -26,20 +26,18 @@ It is designed for business, technical, and management roles, ensuring everyone 
 
 The framework is built as 10 sequential layers. Each layer adds a new dimension of control, starting with basic standardization and evolving into full automation and strategic alignment.
 
-#### **🔷 Visual Overview: The 10 Layers**
+#### **🔷 Overview: The 10 Layers**
 
-*   **Layer 0: CORE** – Foundation: Prompt Framework, standards, definitions.
-*   **Layer 1: METADATA & GOVERNANCE** – Metadata & Governance: Roles, traceability, documentation.
-*   **Layer 2: QUALITY & TESTING** – Quality & Testing: Evaluation, safety, consistency.
-*   **Layer 3: LIFECYCLE & MAINTENANCE** – Lifecycle Management: Versioning, review cycles, feedback.
-*   **Layer 4: DATA & CONTEXT GOVERNANCE** – Data & Context Governance: Lineage, freshness, access control.
-*   **Layer 5: INTEGRATION & EXECUTION** – Integration & Execution: CI/CD, monitoring, automation.
-*   **Layer 6: VALUE & BUSINESS ALIGNMENT** – Value & Business Alignment: KPIs, ROI, measurable outcomes.
-*   **Layer 7: SECURITY & DISASTER RECOVERY** – Security & Resilience: Incident response, DR, risk controls.
-*   **Layer 8: ADOPTION & KNOWLEDGE** – Adoption & Knowledge: Training, onboarding, best practices.
-*   **Layer 9: ECOSYSTEM & EXTENSIBILITY** – Ecosystem & Extensibility: APIs, plugins, community standards.
-
-Each layer adds a new dimension of control, quality, and value.
+*   **Layer 0: CORE** – Prompt Framework, standards, definitions.
+*   **Layer 1: METADATA & GOVERNANCE** – Roles, traceability, documentation.
+*   **Layer 2: QUALITY & TESTING** – Evaluation, safety, consistency.
+*   **Layer 3: LIFECYCLE & MAINTENANCE** – Versioning, review cycles, feedback.
+*   **Layer 4: DATA & CONTEXT GOVERNANCE** – Lineage, freshness, access control.
+*   **Layer 5: INTEGRATION & EXECUTION** – CI/CD, monitoring, automation.
+*   **Layer 6: VALUE & BUSINESS ALIGNMENT** – KPIs, ROI, measurable outcomes.
+*   **Layer 7: SECURITY & DISASTER RECOVERY** – Incident response, DR, risk controls.
+*   **Layer 8: ADOPTION & KNOWLEDGE** – Training, onboarding, best practices.
+*   **Layer 9: ECOSYSTEM & EXTENSIBILITY** – APIs, plugins, community standards.
 
 ### **📈 The AI Maturity Model: Your Roadmap**
 
@@ -60,38 +58,38 @@ The framework is directly linked to a clear maturity model, guiding your journey
 \ai-integration-framework
 | Directory/File | Beschrijving |
 |----------------|-------------|
-| **`README.md`** | Dit bestand - Hoofddocumentatie |
-| **`LICENSE`** | Licentie-informatie |
-| **`docs/`** | **Uitgebreide documentatie** |
-| ├── `framework-overview.md` | Complete framework overzicht |
-| ├── `10-layers.md` | Beschrijving van alle 10 lagen |
-| ├── `maturity-model.md` | Volwassenheidscriteria per niveau |
-| ├── `prompt-framework.md` | Methodologie voor effectieve prompts |
-| ├── `standards-alignment.md` | Standaarden en compliance |
-| ├── `methodology.md` | Implementatiemethodologie |
-| └── `roadmap.md` | Ontwikkelingsplan en toekomstige features |
-| **`templates/`** | **Praktische templates** |
-| ├── `prompt-templates/` | Domein-specifieke prompt templates |
+| **`README.md`** | This file - Main documentation |
+| **`LICENSE`** | License information |
+| **`docs/`** | **Extensive documentation** |
+| ├── `framework-overview.md` | Complete framework overview |
+| ├── `10-layers.md` | Description of all 10 layers |
+| ├── `maturity-model.md` | Maturity criteria per level |
+| ├── `prompt-framework.md` | Methodology for effective prompts |
+| ├── `standards-alignment.md` | Standards and compliance |
+| ├── `methodology.md` | Implementation methodology |
+| └── `roadmap.md` | Development plan and future features |
+| **`templates/`** | **Practical templates** |
+| ├── `prompt-templates/` | Domain-specific prompt templates |
 | │ ├── `marketing-template.md` | Marketing templates |
 | │ ├── `hr-template.md` | HR templates |
-| │ ├── `logistics-template.md` | Logistieke templates |
-| │ └── `technical-template.md` | Technische templates |
-| ├── `prompt-definitions/` | Gedetailleerde prompt definities |
-| │ ├── `example-logistics.md` | Logistieke voorbeelden |
-| │ ├── `example-event-service.md` | Event service voorbeelden |
-| │ └── `example-infra.md` | Infrastructuur voorbeelden |
-| └── `datasets/` | Voorbeeld datasets |
-| ├── `horizon-logistics/` | Logistieke use case data |
+| │ ├── `logistics-template.md` | Logistics templates |
+| │ └── `technical-template.md` | Technical templates |
+| ├── `prompt-definitions/` | Detailed prompt definitions |
+| │ ├── `example-logistics.md` | Logistics examples |
+| │ ├── `example-event-service.md` | Event service examples |
+| │ └── `example-infra.md` | Infrastructure examples |
+| └── `datasets/` | Example datasets |
+| ├── `horizon-logistics/` | Logistics use case data |
 | ├── `hadmal-events/` | Event management data |
-| └── `cloudflow-infra/` | Infrastructuur data |
-| **`courses/`** | **Leerpaden en trainingen** |
-| ├── `business/` | Business & strategie cursussen |
-| ├── `management/` | Management & leiderschap |
-| └── `technical/` | Technische implementatie |
+| └── `cloudflow-infra/` | Infrastructure data |
+| **`courses/`** | **Learning paths and training** |
+| ├── `business/` | Business & strategy courses |
+| ├── `management/` | Management & leadership |
+| └── `technical/` | Technical implementation |
 | **`community/`** | **Community resources** |
-| ├── `contributing.md` | Hoe bij te dragen |
-| ├── `code-of-conduct.md` | Gedragscode |
-| └── `discussions/` | Discussieforums |
+| ├── `contributing.md` | How to contribute |
+| ├── `code-of-conduct.md` | Code of Conduct |
+| └── `discussions/` | Discussion forums |
 
 ## 🧩 Who Is This For?
 
@@ -114,18 +112,6 @@ The framework is actively being expanded with:
 
 ➡️ View the **[Roadmap](roadmap.md)**  
 
-## 🧩 Who Is This For?
-
-*   **AI/ML Engineers & DevOps:** Looking to operationalize and secure AI pipelines.
-*   **Product Managers & Business Leaders:** Needing to align AI projects with business goals and measure ROI.
-*   **Risk, Compliance & Security Officers:** Responsible for governance under regulations like the EU AI Act.
-*   **Consultants & Trainers:** Seeking a robust methodology for client engagements.
-
-## 🚧 Current Status & Roadmap
-
-This is the **v1.0.0-alpha** release. It represents the core framework as developed and battle-tested by **EducloudAI** in professional training and consultancy. We are now opening it to the community for feedback, contributions, and real-world validation.
-
-**View our public [Roadmap](roadmap.md) for planned features and community goals.**
 
 ## 🤝 Contributing
 
