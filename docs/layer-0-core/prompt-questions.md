@@ -72,10 +72,10 @@
   - Sensitive data processing
 
 ## Related Resources
-- [Layer 0 Overview](../README.md) - Back to main documentation
-- [Example: Customer Service Prompt](../examples/customer-service/README.md)
-- [Quick Start Guide](../templates/quick-start-guide.md)
-
+- [Layer 0 Documentation](README.md) - Complete Layer 0 overview
+- [Framework Home](../../README.md) - AI Integration Framework main page
+- [Example: Customer Service Prompt](../../examples/customer-service/README.md)
+- [Quick Start Guide](../../templates/quick-start-guide.md)
 ---
 
 *Part of the [AI Integration Framework](https://github.com/EducloudAI/AI-Integration-Framework)*
