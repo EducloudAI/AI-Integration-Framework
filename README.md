@@ -28,7 +28,7 @@ The framework is built as 10 sequential layers. Each layer adds a new dimension 
 
 #### **🔷 Visual Overview: The 10 Layers**
 
-*   **Layer 0: CORE** – Prompt Framework, standards, definitions.
+*   **Layer 0: CORE** – Foundation: Prompt Framework, standards, definitions.
 *   **Layer 1: METADATA & GOVERNANCE** – Metadata & Governance: Roles, traceability, documentation.
 *   **Layer 2: QUALITY & TESTING** – Quality & Testing: Evaluation, safety, consistency.
 *   **Layer 3: LIFECYCLE & MAINTENANCE** – Lifecycle Management: Versioning, review cycles, feedback.
