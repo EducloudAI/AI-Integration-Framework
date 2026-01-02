@@ -48,7 +48,7 @@
 *Make a copy to collaborate with your team*
 
 ### JSON Template (for Developers)
-**[📄 prompt-definition.json](../templates/prompt-definition.json)**  
+**[📄 prompt-definition.json](templates/prompt-definition.json)**  
 *Machine-readable format for API integration*
 
 ## Usage Tips
