@@ -51,6 +51,14 @@
 - Version control ready
 - Easy to parse programmatically
 
+- ### Quick Start Guide
+**[📖 quick-start-guide.md](../../templates/quick-start-guide.md)**  
+*5-minute tutorial for beginners:*
+- How to use the templates
+- Tier 1 vs Tier 2 explained
+- Real-world examples
+- Next steps
+
 ### Online Collaborative Version
 **[🌐 Google Sheets Copy](https://docs.google.com/spreadsheets/d/...)**  
 *Make a copy to collaborate with your team*
