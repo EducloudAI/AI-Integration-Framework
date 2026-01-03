@@ -56,7 +56,7 @@ Beyond the 10‑layer architecture, the AI Integration Framework introduces four
 ### 🔹 1. Universal Questions That Activate Competencies
 Each layer uses universal, role‑agnostic questions that stimulate critical thinking, collaboration and cross‑functional learning.  
 They activate the core competencies needed in the AI era and create a shared language across business, technology and management.  
-➡️ See the universal question sets
+➡️ [See the universal question sets](/docs/universal-questions/)
 
 ---
 
