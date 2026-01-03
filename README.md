@@ -39,6 +39,8 @@ The framework is built as 10 sequential layers. Each layer adds a new dimension 
 *   **Layer 8: ADOPTION & KNOWLEDGE** – Training, onboarding, best practices.
 *   **Layer 9: ECOSYSTEM & EXTENSIBILITY** – APIs, plugins, community standards.
 
+---
+
 ### **📈 The AI Maturity Model: Your Roadmap**
 
 The framework is directly linked to a clear maturity model, guiding your journey:
@@ -57,6 +59,7 @@ Beyond the 10‑layer architecture, the AI Integration Framework introduces five
 All components, layers and governance mechanisms ultimately translate into prompts that guide AI behaviour.  
 Using a universal standard of **25 questions**, this framework creates consistent, high‑quality prompts for every sector and every domain.  
 It provides the complete structure for clarity, quality, risk, context and value in every AI interaction, starting at the foundation in  
+
 ➡️ [See the full set of 25 Universal Question Templates](docs/layer-0-core/layer-0-core.md)
 
 ---
@@ -71,12 +74,14 @@ They activate the core competencies needed in the AI era and create a shared lan
 
 ### 🔹 3. Growth‑Based Components  
 Every component in the framework is designed as a growth model: you start small, improve iteratively and scale maturity over time.  
+
 ➡️ [Explore Growth-Based Components](docs/growth-models)
 
 ---
 
 ### 🔹 4. Built‑In KPI & Governance Mechanisms  
 Quality, risk, compliance and business value are measured continuously across all components and layers, not as an afterthought.  
+
 ➡️ [Explore Governance & KPIs](docs/kpi-governance/README.md)
 
 ---
@@ -87,7 +92,10 @@ The framework integrates seamlessly with three AI‑Native methodologies:
 - AI‑Native Agile  
 - AI‑Native TOGAF  
 - AI‑Native Operations & Service Management
+
 ➡️ [Explore the AI‑Native ecosystem](docs/ai-native/README.md)
+
+---
 
 
 ## ⚡ Getting Started in 5 Minutes
