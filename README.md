@@ -49,27 +49,37 @@ The framework is directly linked to a clear maturity model, guiding your journey
 
 ## 🌟 Why This Framework Is Different
 
-Beyond the 10‑layer architecture, the AI Integration Framework introduces four innovations that make it uniquely scalable, teachable, and future‑proof.
+Beyond the 10‑layer architecture, the AI Integration Framework introduces four innovations that make it uniquely scalable, teachable and future‑proof.
 
-### 🔹 1. Growth‑Based Components
-Every component in the framework is designed as a growth model: you start small, improve iteratively, and scale maturity over time.  
-➡️ [Learn more](docs/growth-models/)
+---
 
-### 🔹 2. Built‑In KPI & Governance Mechanisms
+### 🔹 1. Universal Questions That Activate Competencies
+Each layer uses universal, role‑agnostic questions that stimulate critical thinking, collaboration and cross‑functional learning.  
+They activate the core competencies needed in the AI era and create a shared language across business, technology and management.  
+➡️ See the universal question sets
+
+---
+
+### 🔹 2. Growth‑Based Components
+Every component in the framework is designed as a growth model: you start small, improve iteratively and scale maturity over time.  
+➡️ Learn more
+
+---
+
+### 🔹 3. Built‑In KPI & Governance Mechanisms
 Quality, risk, compliance and business value are measured continuously across all components and layers, not as an afterthought.  
-➡️ [Explore governance & KPIs](docs/kpi-governance/)
+➡️ Explore governance & KPIs
 
-### 🔹 3. Universal Questions That Activate Competencies
-Each layer uses universal, role‑agnostic questions that stimulate critical thinking, collaboration, and cross‑functional learning.  
-➡️ [See the universal question sets](docs/universal-questions/)
+---
 
 ### 🔹 4. The Three AI‑Native Domains
 The framework integrates seamlessly with three AI‑Native methodologies:
 
-- **AI‑Native Agile**  
-- **AI‑Native TOGAF**  
-- **AI‑Native Operations & Service Management**
-➡️ [Explore the AI‑Native ecosystem](docs/ai-native/)
+- AI‑Native Agile  
+- AI‑Native TOGAF  
+- AI‑Native Operations & Service Management  
+
+➡️ Explore the AI‑Native ecosystem
 
 
 
