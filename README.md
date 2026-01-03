@@ -53,11 +53,11 @@ Beyond the 10‑layer architecture, the AI Integration Framework introduces five
 ---
 
 ### 🔹 1. The Prompt Framework  
-The operational heart of the entire system.  
-All components, layers and governance mechanisms ultimately translate into prompts that guide AI behaviour.
-Using a universal standard of 25 questions, this framework creates consistent, high‑quality prompts for every sector and every domain.
-It provides the complete structure for clarity, quality, risk, context and value in every AI interaction.  
-➡️ Explore the Prompt Framework
+**The operational heart of the entire system.**  
+All components, layers and governance mechanisms ultimately translate into prompts that guide AI behaviour.  
+Using a universal standard of **25 questions**, this framework creates consistent, high‑quality prompts for every sector and every domain.  
+It provides the complete structure for clarity, quality, risk, context and value in every AI interaction, starting at the foundation in  
+➡️ [Layer 0 – Core Purpose and Context](docs/layer-0-core)
 
 ---
 
