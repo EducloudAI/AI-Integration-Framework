@@ -66,9 +66,9 @@ Each layer uses universal, role‑agnostic questions that stimulate critical thi
 ### 🔹 4. The Three AI‑Native Domains
 The framework integrates seamlessly with three AI‑Native methodologies:
 
-- **AI‑Native Operations & Service Management**
 - **AI‑Native Agile**  
 - **AI‑Native TOGAF**  
+- **AI‑Native Operations & Service Management**
 ➡️ [Explore the AI‑Native ecosystem](docs/ai-native/)
 
 
