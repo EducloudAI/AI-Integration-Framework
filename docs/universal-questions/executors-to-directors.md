@@ -69,7 +69,6 @@ People become:
 - designers  
 - analysts  
 - decision makers  
-- orchestrators  
 - directors of AI behavior  
 
 This requires a completely different set of competencies.
