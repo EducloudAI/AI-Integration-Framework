@@ -9,6 +9,23 @@ Instead of relying on knowledge, roles or procedures, universal questions activa
 They are the didactic heart of the framework.
 
 ---
+# 📚 The Five Categories of Universal Questions  
+This section contains the complete, canonical set of **25 Universal Questions**.  
+They are organized into five categories that apply to every component:
+
+- Clarity  
+- Quality  
+- Governance and Risk  
+- Data and Context  
+- Value and Impact  
+
+Each category strengthens a different dimension of thinking and decision making.  
+Together, they form the universal thinking structure used across all layers, roles and maturity levels.
+
+➡️ [Explore the five categories and the full set of 25 Universal Questions](five-categories.md)
+
+---
+
 
 # 🌟 Why Universal Questions Are a Breakthrough  
 Most frameworks describe processes.  
@@ -74,21 +91,6 @@ They all highlight the same competencies:
 Universal questions activate these competencies automatically, without training or theory.
 
 ➡️ [Executors to directors](executors-to-directors.md)
-
----
-
-# 📚 The Five Categories of Universal Questions  
-Universal questions are organized into five categories that apply to every component:
-
-- Clarity  
-- Quality  
-- Governance and Risk  
-- Data and Context  
-- Value and Impact  
-
-Each category strengthens a different dimension of thinking and decision making.
-
-➡️ [The five categories](five-categories.md)
 
 ---
 
