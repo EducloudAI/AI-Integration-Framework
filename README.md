@@ -87,9 +87,7 @@ The framework integrates seamlessly with three AI‑Native methodologies:
 - AI‑Native Agile  
 - AI‑Native TOGAF  
 - AI‑Native Operations & Service Management  
-
-➡️ Explore the AI‑Native ecosystem
-
+➡️ [Explore the AI‑Native ecosystem](docs/ai-native/README.md)
 
 
 ## ⚡ Getting Started in 5 Minutes
