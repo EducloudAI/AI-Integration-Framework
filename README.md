@@ -57,15 +57,14 @@ Beyond the 10‑layer architecture, the AI Integration Framework introduces five
 All components, layers and governance mechanisms ultimately translate into prompts that guide AI behaviour.  
 Using a universal standard of **25 questions**, this framework creates consistent, high‑quality prompts for every sector and every domain.  
 It provides the complete structure for clarity, quality, risk, context and value in every AI interaction, starting at the foundation in  
-➡️ [Layer 0 – Core Purpose and Context](docs/layer-0-core)
+➡️ [See the full set of 25 Universal Question Templates](docs/layer-0-core.md)
 
 ---
 
 ### 🔹 2. Universal Questions That Activate Competencies  
 Each layer uses universal, role‑agnostic questions that stimulate critical thinking, collaboration and cross‑functional learning.  
 They activate the core competencies needed in the AI era and create a shared language across business, technology and management.  
-➡️ See the universal question sets
-
+➡️ See the full set of 25 Universal Questions
 ---
 
 ### 🔹 3. Growth‑Based Components  
