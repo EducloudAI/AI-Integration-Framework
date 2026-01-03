@@ -47,32 +47,40 @@ The framework is directly linked to a clear maturity model, guiding your journey
 *   **Level 2 → 3:** From Governance to Automation (Layers 2, 4, 5)
 *   **Level 3 → 4:** From Automation to Strategic Innovation (Layers 6, 7, 8, 9)
 
-## 🌟 Why This Framework Is Different
-
-Beyond the 10‑layer architecture, the AI Integration Framework introduces four innovations that make it uniquely scalable, teachable and future‑proof.
+## 🌟 Why This Framework Is Different  
+Beyond the 10‑layer architecture, the AI Integration Framework introduces five innovations that make it uniquely scalable, teachable and future‑proof.
 
 ---
 
-### 🔹 1. Universal Questions That Activate Competencies
+### 🔹 1. The Prompt Framework  
+The operational heart of the entire system.  
+All components, layers and governance mechanisms ultimately translate into prompts that guide AI behaviour.
+Using a universal standard of 25 questions, this framework creates consistent, high‑quality prompts for every sector and every domain.
+It provides the complete structure for clarity, quality, risk, context and value in every AI interaction.  
+➡️ Explore the Prompt Framework
+
+---
+
+### 🔹 2. Universal Questions That Activate Competencies  
 Each layer uses universal, role‑agnostic questions that stimulate critical thinking, collaboration and cross‑functional learning.  
 They activate the core competencies needed in the AI era and create a shared language across business, technology and management.  
-➡️ [See the universal question sets](/docs/universal-questions/)
+➡️ See the universal question sets
 
 ---
 
-### 🔹 2. Growth‑Based Components
+### 🔹 3. Growth‑Based Components  
 Every component in the framework is designed as a growth model: you start small, improve iteratively and scale maturity over time.  
 ➡️ Learn more
 
 ---
 
-### 🔹 3. Built‑In KPI & Governance Mechanisms
+### 🔹 4. Built‑In KPI & Governance Mechanisms  
 Quality, risk, compliance and business value are measured continuously across all components and layers, not as an afterthought.  
 ➡️ Explore governance & KPIs
 
 ---
 
-### 🔹 4. The Three AI‑Native Domains
+### 🔹 5. The Three AI‑Native Domains  
 The framework integrates seamlessly with three AI‑Native methodologies:
 
 - AI‑Native Agile  
