@@ -1,40 +1,37 @@
 # 🔹 Universal Questions That Activate Competencies  
-**How structured, role‑agnostic questions unlock deeper thinking, collaboration and quality**
+**The core innovation that transforms people from executors into AI era directors**
 
-The AI Integration Framework uses a unique mechanism to ensure that every component, regardless of domain, maturity or role, is approached with clarity, critical thinking and a shared understanding.
+Universal questions are the most distinctive and powerful element of the AI Integration Framework.  
+They provide a thinking structure that works across every layer, every role and every maturity level.  
+This makes the framework human centered, teachable, scalable and future ready.
 
-This mechanism is based on **universal questions**:  
-a set of structured, repeatable prompts that guide teams through quality, governance, risk, value and operational thinking.
+Instead of relying on knowledge, roles or procedures, universal questions activate the competencies that modern organizations need in the age of AI.
 
-These questions activate competencies across business, technical and management roles, making the framework accessible and powerful for everyone.
-
----
-
-## 🌟 Why Universal Questions Matter
-
-Most frameworks fail because they assume:
-
-- everyone has the same level of expertise  
-- teams know what to ask  
-- governance is obvious  
-- quality is intuitive  
-- risks are visible  
-- business value is clear  
-
-In reality:
-
-- teams overlook critical details  
-- governance becomes inconsistent  
-- quality varies per person  
-- risks are discovered too late  
-- business value is not aligned  
-
-Universal questions solve this by giving **every team member the same thinking tools**, regardless of background.
+They are the didactic heart of the framework.
 
 ---
 
-## 🧠 What Universal Questions Achieve
+# 🌟 Why Universal Questions Are a Breakthrough  
+Most frameworks describe processes.  
+Universal questions develop people.
 
+They address the fundamental challenge of the AI era:
+
+- What knowledge do people need  
+- How should they perform AI related tasks  
+- Which competencies matter  
+- How do we ensure everyone thinks in the same structured way  
+- How do we move from execution to direction  
+
+No existing framework provides a universal set of questions that can be applied across all components, layers and domains.
+
+This makes universal questions a unique innovation in the market.
+
+➡️ [Why this is unique](why-this-is-unique.md)
+
+---
+
+# 🧠 What Universal Questions Achieve  
 Universal questions help teams:
 
 - think more deeply  
@@ -42,100 +39,94 @@ Universal questions help teams:
 - clarify assumptions  
 - improve quality  
 - align business and technical perspectives  
-- ensure governance is embedded  
-- activate cross‑functional competencies  
+- embed governance naturally  
+- activate cross functional competencies  
 - create consistent documentation  
-- accelerate learning  
+- accelerate learning and maturity  
 
-They turn every component into a **guided learning moment**.
+They turn every component into a guided learning moment.
 
----
-
-## 📚 The Five Categories of Universal Questions
-
-The framework uses five categories of universal questions that apply to every component:
+➡️ [Competency activation](competency-activation.md)
 
 ---
 
-### **1. Clarity Questions**  
-Help define purpose, scope and expectations.
+# 🌍 The Future of Work: From Executors to Directors  
+AI performs the execution.  
+People perform the thinking.
 
-Examples:  
-- What is the goal of this component?  
-- Who is the intended user or stakeholder?  
-- What outcome should this produce?  
+Universal questions support the shift that global institutions describe:
 
----
+- World Economic Forum  
+- European Union  
+- CPB  
+- OECD  
+- Future of Jobs reports  
 
-### **2. Quality Questions**  
-Ensure consistency, robustness and reliability.
+They all highlight the same competencies:
 
-Examples:  
-- How do we know this is correct?  
-- What tests or validations are needed?  
-- What could cause inconsistent results?  
+- analytical thinking  
+- problem solving  
+- creativity  
+- communication  
+- collaboration  
+- leadership  
+- responsible AI judgment  
 
----
+Universal questions activate these competencies automatically, without training or theory.
 
-### **3. Governance & Risk Questions**  
-Identify risks, controls and compliance needs.
-
-Examples:  
-- What risks are associated with this component?  
-- Does this require human oversight?  
-- Are there compliance or ethical considerations?  
+➡️ [Executors to directors](executors-to-directors.md)
 
 ---
 
-### **4. Data & Context Questions**  
-Ensure the right information is used.
+# 📚 The Five Categories of Universal Questions  
+Universal questions are organized into five categories that apply to every component:
 
-Examples:  
-- What data or context does this depend on?  
-- Is the data fresh, accurate and authorized?  
-- What happens if the context changes?  
+- Clarity  
+- Quality  
+- Governance and Risk  
+- Data and Context  
+- Value and Impact  
 
----
+Each category strengthens a different dimension of thinking and decision making.
 
-### **5. Value & Impact Questions**  
-Connect the component to business outcomes.
-
-Examples:  
-- How does this contribute to value creation?  
-- What KPI does this influence?  
-- How will we measure success?  
+➡️ [The five categories](five-categories.md)
 
 ---
 
-## 🧩 How Universal Questions Fit Into the Framework
-
+# 🔗 How Universal Questions Fit Into the Framework  
 Universal questions are used in:
 
-- the 10 layers  
+- the ten layers  
 - the maturity model  
 - the scoring system  
-- the governance templates  
-- the AI‑Native Agile, TOGAF and Operations modules  
-- the training and certification pathways  
+- governance templates  
+- AI Native Agile  
+- AI Native TOGAF  
+- AI Native Operations  
+- training and certification  
+- the Prompt Framework  
 
-They create a **shared language** across all domains.
+The form of the output may change, but the thinking structure remains the same.
 
----
-
-## 🎯 Benefits of Universal Questions
-
-- **Cross‑functional alignment**  
-- **Consistent quality**  
-- **Better governance**  
-- **Faster onboarding**  
-- **Improved documentation**  
-- **Reduced risk**  
-- **Higher maturity**  
-- **Better decision‑making**  
-
-Universal questions turn every component into a structured, teachable and repeatable process.
+➡️ [Integration across the framework](framework-integration.md)  
+➡️ [Connection to the Prompt Framework](prompt-framework-link.md)
 
 ---
 
-## 📘 Next: Explore the AI‑Native Ecosystem  
-➡️ [The Three AI‑Native Domains](../ai-native/)
+# 🎯 Benefits of Universal Questions  
+- cross functional alignment  
+- consistent quality  
+- stronger governance  
+- faster onboarding  
+- better documentation  
+- reduced risk  
+- higher maturity  
+- better decision making  
+- future ready competencies  
+
+Universal questions make the framework scalable, teachable and human centered.
+
+---
+
+## 📘 Next: Explore the AI Native Ecosystem  
+➡️ [The Three AI Native Domains](../ai-native/)
