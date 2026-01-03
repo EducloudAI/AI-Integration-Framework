@@ -71,13 +71,13 @@ They activate the core competencies needed in the AI era and create a shared lan
 
 ### 🔹 3. Growth‑Based Components  
 Every component in the framework is designed as a growth model: you start small, improve iteratively and scale maturity over time.  
-➡️ [Learn more](docs/growth-models)
+➡️ [Explore Growth-Based Components](docs/growth-models)
 
 ---
 
 ### 🔹 4. Built‑In KPI & Governance Mechanisms  
 Quality, risk, compliance and business value are measured continuously across all components and layers, not as an afterthought.  
-➡️ Explore governance & KPIs
+➡️ [Explore Governance & KPIs](docs/kpi-governance/README.md)
 
 ---
 
