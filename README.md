@@ -71,7 +71,7 @@ They activate the core competencies needed in the AI era and create a shared lan
 
 ### 🔹 3. Growth‑Based Components  
 Every component in the framework is designed as a growth model: you start small, improve iteratively and scale maturity over time.  
-➡️ Learn more
+➡️ [Learn more](docs/growth-models)
 
 ---
 
