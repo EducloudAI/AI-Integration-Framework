@@ -64,7 +64,8 @@ It provides the complete structure for clarity, quality, risk, context and value
 ### 🔹 2. Universal Questions That Activate Competencies  
 Each layer uses universal, role‑agnostic questions that stimulate critical thinking, collaboration and cross‑functional learning.  
 They activate the core competencies needed in the AI era and create a shared language across business, technology and management.  
-➡️ See the full set of 25 Universal Questions
+
+➡️ [See the full set of 25 Universal Question](docs/universal-questions/README.md)
 
 ---
 
