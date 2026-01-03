@@ -1,30 +1,9 @@
 # 🔗 Integration Across the Framework  
-**How universal questions connect the ten layers, maturity model and AI Native domains**
+**How Universal Questions Integrate Across the Framework**
 
-Universal questions are not an isolated feature.  
-They are the connective tissue of the entire AI Integration Framework.  
+Universal questions are not an isolated feature.
+They are the connective tissue of the entire AI Integration Framework.
 They ensure that every component, every layer and every domain is approached with the same thinking structure.
-
-This creates consistency, predictability and quality across the entire ecosystem.
-
----
-
-# 🌟 A Thinking Structure That Works Everywhere  
-Universal questions are used in:
-
-- the ten layers  
-- the maturity model  
-- the scoring system  
-- governance templates  
-- AI Native Agile  
-- AI Native TOGAF  
-- AI Native Operations and Service Management  
-- training and certification  
-- the Prompt Framework  
-
-The form of the output may change, but the thinking structure remains the same.
-
-This is what makes the framework scalable and teachable.
 
 ---
 
@@ -44,8 +23,7 @@ Examples:
 - Layer 7 uses them to assess governance and risk  
 - Layer 9 uses them to measure value and impact  
 
-The questions stay the same.  
-The answers evolve with the layer.
+The questions do not change. The output may take different forms, but the thinking structure is always the same.
 
 ---
 
