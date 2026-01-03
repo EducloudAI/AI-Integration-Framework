@@ -3,7 +3,6 @@
 
 Universal questions are the most distinctive and powerful element of the AI Integration Framework.  
 They provide a thinking structure that works across every layer, every role and every maturity level.  
-This makes the framework human centered, teachable, scalable and future ready.
 
 Instead of relying on knowledge, roles or procedures, universal questions activate the competencies that modern organizations need in the age of AI.
 
