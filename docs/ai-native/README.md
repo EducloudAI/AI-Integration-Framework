@@ -3,7 +3,7 @@
 
 The AI Integration Framework is designed to work seamlessly with three complementary methodologies that translate traditional enterprise practices into AI‑Native ways of working.
 
-These three domains, AI‑Native Agile, AI‑Native TOGAF and AI‑Native Operations & Service Management, form a complete ecosystem that supports the full lifecycle of AI adoption, from strategy to development to operations.
+These three domains, AI‑Native Agile, AI‑Native TOGAF and AI‑Native Operations, form a complete ecosystem that supports the full lifecycle of AI adoption, from strategy to development to operations.
 
 Together, they create a unified governance and quality model that spans the entire lifecycle of modern organizations.
 
