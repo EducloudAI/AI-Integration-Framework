@@ -125,6 +125,7 @@ Projects roles, skills and learning across all layers.
 Includes the 2×25 Universal Questions that develop AI‑Native thinking, communication and decision‑making.
 
 ---
+
 # 🌟 Why This Framework Is Different
 
 Most AI initiatives focus on tools, models or isolated use cases.  
@@ -146,21 +147,21 @@ They ensure that AI adoption is controlled, measurable and human‑centered.
 
 ---
 
-### 3. The Prompt Framework That Activate Competencies  
+### 3. The Prompt Framework  
 **The operational heart of the entire system.**  
 All components, layers and governance mechanisms ultimately translate into prompts that guide AI behaviour.  
-Using a universal standard of **25 questions**, the Prompt Framework creates consistent, high‑quality prompts for every sector and every domain.  
-It provides the complete structure for clarity, quality, risk, context and value in every AI interaction.
+Using a universal standard of **25 analytical and quality‑driven questions**, the Prompt Framework activates competencies such as clarity, precision, risk awareness, contextual reasoning and structured thinking.  
+It ensures that every AI interaction is consistent, safe and aligned with organizational goals.
 
-➡️ [See the full set of 25 Universal Question Templates](docs/layer-0-core/layer-0-core.md)
+➡️ [See the full set of 25 Prompt Framework Questions](docs/layer-0-core/layer-0-core.md)
 
 ---
 
-### 4. Universal Questions That Activate Competencies  
+### 4. Universal Questions That Activate Cross‑Functional Competencies  
 Each layer uses universal, role‑agnostic questions that stimulate critical thinking, collaboration and cross‑functional learning.  
-They activate the core competencies needed in the AI era and create a shared language across business, technology and management.
+These questions activate AI‑Native competencies such as strategic insight, governance awareness, decision‑making, alignment and shared understanding across business, technology and management.
 
-➡️ [See the full set of 25 Universal Question](docs/universal-questions/README.md)
+➡️ [See the full set of 25 Universal Questions](docs/universal-questions/README.md)
 
 ---
 
@@ -168,9 +169,8 @@ They activate the core competencies needed in the AI era and create a shared lan
 Every component in the framework is designed as a growth model: you start small, improve iteratively and scale maturity over time.  
 Quality, risk, compliance and business value are measured continuously across all components and layers, not as an afterthought.
 
-➡️ [Explore Growth-Based Components](docs/growth-models)
-
-➡️ [Explore Governance & KPIs](docs/kpi-governance/README.md)
+➡️ [Explore Growth‑Based Components](docs/growth-models)  
+➡️ [Explore Governance and KPIs](docs/kpi-governance/README.md)
 
 ---
 
@@ -180,6 +180,8 @@ The framework integrates seamlessly with AI‑Native Agile, AI‑Native TOGAF an
 ➡️ [Explore the AI‑Native ecosystem](docs/ai-native/README.md)
 
 ---
+
+Together, these innovations make the AI Integration Framework scalable, teachable and future‑proof.
 
 
 ## ⚡ Getting Started in 5 Minutes
