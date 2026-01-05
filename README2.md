@@ -49,11 +49,11 @@ Similar to how the OSI model organizes network communication, these layers defin
 
 ---
 
-# 🧩 Activities and Components Per Layer: Turning Architecture Into Action
+# 🧩 Activities and Components: Turning Architecture Into Action
 
 Each of the ten layers contains a set of **35 clearly defined activities**.  
 These activities translate the architecture into concrete, repeatable actions that teams can perform across all roles and domains.  
-Each activity produces a distinct component within the framework.
+Each activity produces a **distinct component** within the framework.
 
 ---
 
@@ -104,9 +104,9 @@ Activities include integration patterns, extension guidelines and ecosystem gove
 # 🌟 Why This Framework Is Different
 
 Most AI initiatives focus on tools, models or isolated use cases.  
-The AI Integration Framework takes a fundamentally different approach by providing a complete architecture for responsible, scalable and organization‑wide AI adoption.
-
-It introduces seven innovations that make it uniquely powerful.
+The AI Integration Framework takes a fundamentally different approach by providing a complete architecture for responsible, scalable and organization‑wide AI adoption.  
+It translates recommendations into concrete actions, and actions into valuable, distinct components within the framework.  
+The framework introduces seven innovations that make it uniquely powerful.
 
 ---
 
@@ -126,25 +126,7 @@ Each of the ten layers consists of 35 clearly defined activities that operationa
 
 ---
 
-### 3. Three Cross‑Cutting Frameworks  
-Governance, maturity and competency project their perspective across every layer and component.  
-They ensure that AI adoption is controlled, measurable and human‑centered.
-
-➡️ [Explore the Three Cross‑Cutting Frameworks](#)
-
----
-
-### 4. The Prompt Framework  
-**The operational heart of the entire system.**  
-All components, layers and governance mechanisms ultimately translate into prompts that guide AI behaviour.  
-Using a universal standard of **25 analytical and quality‑driven questions**, the Prompt Framework activates competencies such as clarity, precision, risk awareness, contextual reasoning and structured thinking.  
-It ensures that every AI interaction is consistent, safe and aligned with organizational goals.
-
-➡️ [See the full set of 25 Prompt Framework Questions](docs/layer-0-core/layer-0-core.md)
-
----
-
-### 5. Universal Questions That Activate Cross‑Functional Competencies  
+### 3. Universal Questions That Activate Cross‑Functional Competencies  
 Each layer uses **25 universal, role‑agnostic questions** that stimulate critical thinking, collaboration and cross‑functional learning.  
 These questions are applied directly to the 35 activities defined in each layer, ensuring that every action becomes a structured moment of reflection, governance and quality improvement.
 
@@ -152,11 +134,33 @@ These questions are applied directly to the 35 activities defined in each layer,
 
 ---
 
-### 6. Growth‑Based Components and KPI Governance  
+### 4. Growth‑Based Components and KPI Governance  
 Each of the 35 activities produces a distinct component. Every component within the framework is designed as a growth model, enabling organizations to start small, improve iteratively and increase maturity over time. Quality, risk, compliance and business value are embedded throughout all layers and components as continuous considerations.
 
 ➡️ [Explore Growth‑Based Components](docs/growth-models)  
 ➡️ [Explore Governance and KPIs](docs/kpi-governance/README.md)
+
+---
+### 5. The Prompt Framework  
+**The operational heart of the entire system.**  
+All components, layers and governance mechanisms ultimately translate into prompts that guide AI behaviour.  
+The Prompt Framework operates at layer 0 and applies a universal standard of 25 analytical and quality‑driven questions. Through this approach, the framework activates essential competencies such as clarity, precision, risk awareness, contextual reasoning and structured thinking.  
+It ensures that every AI interaction is consistent, safe and aligned with organizational goals.
+
+➡️ [See the full set of 25 Prompt Framework Questions](docs/layer-0-core/layer-0-core.md)
+
+---
+
+
+### 6. Three Cross Cutting Frameworks  
+The framework is supported by three cross cutting frameworks that apply across every layer and component.  
+**Governance** connects AI usage to measurable business outcomes, KPIs and ROI.  
+**Maturity** defines organizational growth levels from level 0 to level 4.  
+**Competency** focuses on essential human skills such as analytical thinking, problem solving and creativity.  
+
+Together, these perspectives ensure that AI adoption remains controlled, measurable and human centered.
+
+➡️ [Explore the Three Cross Cutting Frameworks](#)
 
 ---
 
@@ -168,9 +172,6 @@ The framework integrates seamlessly with existing management methods. Examples i
 ---
 
 Together, these innovations make the AI Integration Framework scalable, teachable and future‑proof.
-
-Together, these innovations make the AI Integration Framework scalable, teachable and future‑proof.
-
 
 ## ⚡ Getting Started in 5 Minutes
 
