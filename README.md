@@ -51,8 +51,8 @@ Similar to how the OSI model organizes network communication, these layers defin
 
 # 🧩 Activities and Components: Turning Architecture Into Action
 
-Each of the ten layers contains a set of **35 clearly defined activities**.  
-These activities translate the architecture into concrete, repeatable actions that teams can perform across all roles and domains.  
+Each of the ten layers contains a subset of the framework’s **35 clearly defined activities**.  
+Together, these activities translate the architecture into concrete, repeatable actions that teams can perform across all roles and domains.  
 Each activity produces a **distinct component** within the framework.
 
 ---
@@ -120,7 +120,10 @@ It ensures that every AI initiative follows the same structure, language and qua
 
 ### 2. 35 Clearly Defined Activities  
 
-Each of the ten layers consists of 35 clearly defined activities that operationalize the architecture into concrete and repeatable actions. These activities define how teams implement each layer consistently across roles, domains and technologies, with each activity resulting in a set of distinct components within the framework.
+Each of the ten layers contains a subset of the framework’s **35 clearly defined activities**.  
+Together, these activities operationalize the architecture into concrete and repeatable actions that teams can perform across roles, domains and technologies.  
+Each activity results in a **distinct component** within the framework.
+
 
 ➡️ [Explore the 35 activities](#)
 
