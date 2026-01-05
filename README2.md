@@ -131,13 +131,25 @@ It introduces five innovations that make it uniquely powerful.
 A structured model that defines the complete lifecycle of AI usage, similar to how the OSI model structures network communication.  
 It ensures that every AI initiative follows the same structure, language and quality standards.
 
+➡️ [Explore the 10‑Layer Architecture](#)
+
 ---
 
 ### 2. 35 clearly defined activities
+Each of the ten layers contains a set of 35 clearly defined activities that translate the architecture into concrete, repeatable actions.  
+These activities describe exactly what teams must do to implement each layer consistently across roles, domains and technologies.  
+
+➡️ [Explore the 35 activities](#)
+
+
+---
 
 ### 3. Three Cross‑Cutting Frameworks  
 Governance, maturity and competency project their perspective across every layer.  
 They ensure that AI adoption is controlled, measurable and human‑centered.
+
+➡️ [Explore the Three Cross‑Cutting Frameworks](#)
+
 
 ---
 
