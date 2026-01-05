@@ -48,10 +48,12 @@ The AI Integration Framework provides a vendor‑agnostic, ten‑layer architect
 Similar to how the OSI model organizes network communication, these layers define the complete lifecycle of AI usage, governance, quality, data, integration, security and value creation.
 
 ---
-# 🧩 Activities Per Layer: Turning Architecture Into Action
+
+# 🧩 Activities and Components Per Layer: Turning Architecture Into Action
 
 Each of the ten layers contains a set of **35 clearly defined activities**.  
-These activities translate the architecture into concrete, repeatable actions that teams can perform across all roles and domains.
+These activities translate the architecture into concrete, repeatable actions that teams can perform across all roles and domains.  
+Each activity produces a distinct component within the framework.
 
 ---
 
@@ -104,7 +106,7 @@ Activities include integration patterns, extension guidelines and ecosystem gove
 Most AI initiatives focus on tools, models or isolated use cases.  
 The AI Integration Framework takes a fundamentally different approach by providing a complete architecture for responsible, scalable and organization‑wide AI adoption.
 
-It introduces five innovations that make it uniquely powerful.
+It introduces seven innovations that make it uniquely powerful.
 
 ---
 
@@ -116,21 +118,19 @@ It ensures that every AI initiative follows the same structure, language and qua
 
 ---
 
-### 2. 35 clearly defined activities
-Each of the ten layers contains a set of 35 clearly defined activities that translate the architecture into concrete, repeatable actions.  
-These activities describe exactly what teams must do to implement each layer consistently across roles, domains and technologies.  
+### 2. 35 Clearly Defined Activities  
+
+Each of the ten layers consists of 35 clearly defined activities that operationalize the architecture into concrete and repeatable actions. These activities define how teams implement each layer consistently across roles, domains and technologies, with each activity resulting in a set of distinct components within the framework.
 
 ➡️ [Explore the 35 activities](#)
-
 
 ---
 
 ### 3. Three Cross‑Cutting Frameworks  
-Governance, maturity and competency project their perspective across every layer.  
+Governance, maturity and competency project their perspective across every layer and component.  
 They ensure that AI adoption is controlled, measurable and human‑centered.
 
 ➡️ [Explore the Three Cross‑Cutting Frameworks](#)
-
 
 ---
 
@@ -145,7 +145,7 @@ It ensures that every AI interaction is consistent, safe and aligned with organi
 ---
 
 ### 5. Universal Questions That Activate Cross‑Functional Competencies  
-Each layer uses **25 universal, role‑agnostic questions** that stimulate critical thinking, collaboration and cross‑functional learning.
+Each layer uses **25 universal, role‑agnostic questions** that stimulate critical thinking, collaboration and cross‑functional learning.  
 These questions are applied directly to the 35 activities defined in each layer, ensuring that every action becomes a structured moment of reflection, governance and quality improvement.
 
 ➡️ [See the full set of 25 Universal Questions](docs/universal-questions/README.md)
@@ -153,20 +153,21 @@ These questions are applied directly to the 35 activities defined in each layer,
 ---
 
 ### 6. Growth‑Based Components and KPI Governance  
-Every component in the framework is designed as a growth model: you start small, improve iteratively and scale maturity over time.  
-Quality, risk, compliance and business value are measured continuously across all components and layers, not as an afterthought.
+Each of the 35 activities produces a distinct component. Every component within the framework is designed as a growth model, enabling organizations to start small, improve iteratively and increase maturity over time. Quality, risk, compliance and business value are embedded throughout all layers and components as continuous considerations.
 
 ➡️ [Explore Growth‑Based Components](docs/growth-models)  
 ➡️ [Explore Governance and KPIs](docs/kpi-governance/README.md)
 
 ---
 
-### 7. AI‑Native Methodologies  
-The framework integrates seamlessly with AI‑Native Agile, AI‑Native TOGAF and AI‑Native Operations, enabling domain‑specific adoption on top of a shared architecture.
+### 7. AI‑Native Suite  
+The framework integrates seamlessly with existing management methods. Examples include AI‑Native Agile, AI‑Native TOGAF and AI‑Native Operations, enabling domain‑specific adoption on top of a shared architecture.
 
 ➡️ [Explore the AI‑Native ecosystem](docs/ai-native/README.md)
 
 ---
+
+Together, these innovations make the AI Integration Framework scalable, teachable and future‑proof.
 
 Together, these innovations make the AI Integration Framework scalable, teachable and future‑proof.
 
