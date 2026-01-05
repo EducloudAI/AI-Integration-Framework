@@ -99,25 +99,6 @@ Activities include integration patterns, extension guidelines and ecosystem gove
 
 ---
 
-# 🧱 The Three Cross‑Cutting Frameworks
-
-Above the ten layers sit three cross‑cutting frameworks.  
-These frameworks project their perspective across every layer, ensuring that AI adoption is not only structured, but also governed, measurable and human‑centered.
-
-## ✔ Governance Framework  
-Projects risk, controls, compliance and responsibilities across all layers.  
-Ensures alignment with standards such as the EU AI Act, ISO 42001 and NIST AI RMF.
-
-## ✔ Maturity Model  
-Projects organizational growth, consistency and adoption across all layers.  
-Provides a clear roadmap from experimentation to AI‑Native operations.
-
-## ✔ Competency Framework  
-Projects roles, skills and learning across all layers.  
-Includes the 2×25 Universal Questions that develop AI‑Native thinking, communication and decision‑making.
-
----
-
 # 🌟 Why This Framework Is Different
 
 Most AI initiatives focus on tools, models or isolated use cases.  
@@ -164,7 +145,8 @@ It ensures that every AI interaction is consistent, safe and aligned with organi
 ---
 
 ### 5. Universal Questions That Activate Cross‑Functional Competencies  
-Each layer uses universal, role‑agnostic questions that stimulate critical thinking, collaboration and cross‑functional learning. These questions are applied directly to the 35 activities defined in each layer, ensuring that every action becomes a structured moment of reflection, governance and quality improvement. 
+Each layer uses **25 universal, role‑agnostic questions** that stimulate critical thinking, collaboration and cross‑functional learning.
+These questions are applied directly to the 35 activities defined in each layer, ensuring that every action becomes a structured moment of reflection, governance and quality improvement.
 
 ➡️ [See the full set of 25 Universal Questions](docs/universal-questions/README.md)
 
