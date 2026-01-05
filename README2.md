@@ -55,19 +55,6 @@ These activities translate the architecture into concrete, repeatable actions th
 
 ---
 
-# 🧠 A Universal Kernel for All AI Activities
-
-The ten layers form the structural architecture of the framework.  
-The three cross‑cutting frameworks project governance, maturity and competency across every layer.
-
-Together, they create a **universal kernel** that all AI activities can attach to.  
-This includes prompts, agents, workflows, governance, testing, security, value creation and organizational adoption.
-
-This universal kernel ensures that every AI initiative, regardless of domain or technology, follows the same structure, language and quality standards.
-
----
-
-
 # 🔷 Overview of the 10 Layers
 
 **Layer 0: Core**  
@@ -134,90 +121,153 @@ Includes the 2×25 Universal Questions that develop AI‑Native thinking, commun
 # 🌟 Why This Framework Is Different
 
 Most AI initiatives focus on tools, models or isolated use cases.  
-The AI Integration Framework provides a complete architecture that is conceptual, operational, didactic and measurable.
+The AI Integration Framework takes a fundamentally different approach by providing a complete architecture for responsible, scalable and organization‑wide AI adoption.
 
-It introduces six innovations that make it uniquely powerful.
+It introduces five innovations that make it uniquely powerful.
 
 ---
 
 ### 1. A Universal 10‑Layer Architecture  
-A structured model that defines the complete lifecycle of AI usage, similar to the OSI model.
+A structured model that defines the complete lifecycle of AI usage, similar to how the OSI model structures network communication.  
+It ensures that every AI initiative follows the same structure, language and quality standards.
 
-### 2. Three Cross‑Cutting Frameworks  
-Governance, maturity and competency embedded across all layers.
+---
 
-### 3. The Prompt Framework  
-The operational heart of the system, powered by **25 analytical and quality‑driven questions**.
+### 2. 35 clearly defined activities
 
-➡️ `docs/layer-0-core/layer-0-core.md`
+### 3. Three Cross‑Cutting Frameworks  
+Governance, maturity and competency project their perspective across every layer.  
+They ensure that AI adoption is controlled, measurable and human‑centered.
 
-### 4. Universal Questions That Activate Competencies  
-Role‑agnostic questions that stimulate critical thinking, collaboration and governance awareness.
+---
 
-➡️ `docs/universal-questions/README.md`
+### 4. The Prompt Framework  
+**The operational heart of the entire system.**  
+All components, layers and governance mechanisms ultimately translate into prompts that guide AI behaviour.  
+Using a universal standard of **25 analytical and quality‑driven questions**, the Prompt Framework activates competencies such as clarity, precision, risk awareness, contextual reasoning and structured thinking.  
+It ensures that every AI interaction is consistent, safe and aligned with organizational goals.
 
-### 5. Growth‑Based Components and KPI Governance  
-Every component is designed as a growth model with continuous measurement.
+➡️ [See the full set of 25 Prompt Framework Questions](docs/layer-0-core/layer-0-core.md)
 
-➡️ `docs/growth-models`  
-➡️ `docs/kpi-governance/README.md`
+---
 
-### 6. AI‑Native Methodologies  
-Seamless integration with AI‑Native Agile, AI‑Native TOGAF and AI‑Native Operations.
+### 5. Universal Questions That Activate Cross‑Functional Competencies  
+Each layer uses universal, role‑agnostic questions that stimulate critical thinking, collaboration and cross‑functional learning. These questions are applied directly to the 35 activities defined in each layer, ensuring that every action becomes a structured moment of reflection, governance and quality improvement. 
 
-➡️ `docs/ai-native/README.md`
+➡️ [See the full set of 25 Universal Questions](docs/universal-questions/README.md)
+
+---
+
+### 6. Growth‑Based Components and KPI Governance  
+Every component in the framework is designed as a growth model: you start small, improve iteratively and scale maturity over time.  
+Quality, risk, compliance and business value are measured continuously across all components and layers, not as an afterthought.
+
+➡️ [Explore Growth‑Based Components](docs/growth-models)  
+➡️ [Explore Governance and KPIs](docs/kpi-governance/README.md)
+
+---
+
+### 7. AI‑Native Methodologies  
+The framework integrates seamlessly with AI‑Native Agile, AI‑Native TOGAF and AI‑Native Operations, enabling domain‑specific adoption on top of a shared architecture.
+
+➡️ [Explore the AI‑Native ecosystem](docs/ai-native/README.md)
 
 ---
 
 Together, these innovations make the AI Integration Framework scalable, teachable and future‑proof.
 
----
 
-# ⚡ Getting Started in 5 Minutes
+## ⚡ Getting Started in 5 Minutes
 
-1. **Understand the Core:**  
-   Start with **Layer 0: The Prompt Framework**.
+1.  **Understand the Core:** Start with **[Layer 0: The Prompt Framework](docs/layer-0-core/layer-0-core.md)**. This is the foundational tool for creating clear, reusable AI instructions.
+2.  **Assess Your Current State:** Use the **[AI Maturity Model Self-Assessment](docs/maturity-model/)** to identify your starting point and next steps.
+3.  **Implement Your First Layer:** Based on your assessment, pick the relevant template (e.g., Metadata Schema, Test Checklist) from the `/templates` folder and adapt it to a pilot project.
+4.  **Join the Community:** Have questions or want to share your use case? Open an [Issue](https://github.com/EducloudAI/AI-Integration-Framework/issues) or start a [Discussion](https://github.com/EducloudAI/AI-Integration-Framework/discussions).
 
-2. **Assess Your Current State:**  
-   Use the **AI Maturity Model Self‑Assessment**.
+## 📁 Repository Structure
+\ai-integration-framework
+| Directory/File | Beschrijving |
+|----------------|-------------|
+| **`README.md`** | This file - Main documentation |
+| **`LICENSE`** | License information |
+| **`docs/`** | **Extensive documentation** |
+| ├── `framework-overview.md` | Complete framework overview |
+| ├── `10-layers.md` | Description of all 10 layers |
+| ├── `maturity-model.md` | Maturity criteria per level |
+| ├── `prompt-framework.md` | Methodology for effective prompts |
+| ├── `standards-alignment.md` | Standards and compliance |
+| ├── `methodology.md` | Implementation methodology |
+| └── `roadmap.md` | Development plan and future features |
+| **`templates/`** | **Practical templates** |
+| ├── `prompt-templates/` | Domain-specific prompt templates |
+| │ ├── `marketing-template.md` | Marketing templates |
+| │ ├── `hr-template.md` | HR templates |
+| │ ├── `logistics-template.md` | Logistics templates |
+| │ └── `technical-template.md` | Technical templates |
+| ├── `prompt-definitions/` | Detailed prompt definitions |
+| │ ├── `example-logistics.md` | Logistics examples |
+| │ ├── `example-event-service.md` | Event service examples |
+| │ └── `example-infra.md` | Infrastructure examples |
+| └── `datasets/` | Example datasets |
+| ├── `horizon-logistics/` | Logistics use case data |
+| ├── `hadmal-events/` | Event management data |
+| └── `cloudflow-infra/` | Infrastructure data |
+| **`courses/`** | **Learning paths and training** |
+| ├── `business/` | Business & strategy courses |
+| ├── `management/` | Management & leadership |
+| └── `technical/` | Technical implementation |
+| **`community/`** | **Community resources** |
+| ├── `contributing.md` | How to contribute |
+| ├── `code-of-conduct.md` | Code of Conduct |
+| └── `discussions/` | Discussion forums |
 
-3. **Implement Your First Layer:**  
-   Select a template from the `/templates` folder and apply it to a pilot project.
+## 🧩 Who Is This For?
 
-4. **Join the Community:**  
-   Open an Issue or start a Discussion.
+*   **AI/ML Engineers & DevOps:** Operationalizing AI pipelines, CI/CD, monitoring, IaC, testing.
+*   **Product Managers & Business Leaders:** Aligning AI with business goals, KPIs, ROI, value creation.
+*   **Risk, Compliance & Security Officers:** Implementing governance aligned with EU AI Act, ISO 42001, NIST RMF.
+*   **Consultants, Trainers & Educators:** Using a structured, standards‑aligned methodology for AI adoption.
 
----
+## 🚧 Current Status & Roadmap
 
-# 🧩 Who Is This For?
+This is the **0.9.0‑beta** release.  
+The framework is actively being expanded with:
 
-**AI/ML Engineers and DevOps**  
-Operationalizing AI pipelines, CI/CD, monitoring, IaC and testing.
+- More templates  
+- More use cases  
+- More datasets  
+- More documentation  
+- A certification pathway  
+- A community governance model  
 
-**Product Managers and Business Leaders**  
-Aligning AI with business goals, KPIs, ROI and value creation.
+➡️ View the **[Roadmap](roadmap.md)**  
 
-**Risk, Compliance and Security Officers**  
-Implementing governance aligned with EU AI Act, ISO 42001 and NIST RMF.
 
-**Consultants, Trainers and Educators**  
-Using a structured, standards‑aligned methodology for AI adoption.
+## 🤝 Contributing
 
----
+We believe the future of responsible AI integration is built together. Contributions are highly welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) to get started.
 
-# 📄 License
+## 📄 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details. This means you are free to use, modify, and distribute it, including for commercial purposes.
 
----
+## 🙏 Acknowledgements
 
-# 🙏 Acknowledgements
+The AI Integration Framework is developed and maintained by **[Educloud](https://educloudai.eu/)** as part of our mission to accelerate responsible and scalable AI adoption in Europe and beyond.
 
-The AI Integration Framework is developed and maintained by **Educloud** as part of our mission to accelerate responsible and scalable AI adoption in Europe and beyond.
+*Educloud provides professional training, certification, and consultancy services to help organizations implement this framework. Learn more on our [website](https://educloudai.eu/).*
 
----
-
-# 🏢 For Organizations and Educational Institutions
+## 🏢 For Organizations & Educational Institutions
 
 Interested in implementing the framework or partnering with Educloud?  
-Visit our website to explore collaboration opportunities.
+We support:
+
+- Enterprises  
+- Government organizations  
+- MBO/HBO institutions  
+- Training providers  
+- Consultancy firms  
+
+➡️ Contact us via our website to explore collaboration opportunities.
+
+
