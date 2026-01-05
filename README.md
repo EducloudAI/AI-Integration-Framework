@@ -1,97 +1,181 @@
 # 🧠 AI Integration Framework
 
-**An open, standards‑aligned framework for scaling AI from isolated experiments to responsible, enterprise‑wide integration.**
+**A universal, layered architecture for scaling AI from isolated experiments to responsible, enterprise wide adoption, powered by governance, maturity and competency.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status: Active Development](https://img.shields.io/badge/Status-Active_Development-blue)](https://github.com/EducloudAI/AI-Integration-Framework)
 **Version:** 0.9.0-beta | **Framework Version:** 1.0
 
-## 🚀 The Problem: Scaling AI Is Chaotic
+# 🚀 The Problem: AI Adoption Is Fragmented, Fast‑Moving and Unmanageable
 
-Organizations are rapidly drowning in AI experiments. While only some applications include an AI agent today, this is quickly becoming the default. Tools like Copilot, Gemini, Claude, ChatGPT, and custom LLMs rely on prompts that grow from dozens to hundreds and eventually thousands. This raises critical, unresolved questions:
+Organizations are entering a world where every application will soon include its own AI agent.  
+Each agent requires prompts, context, governance, testing, monitoring and continuous improvement.
 
-- **Governance:** How do we ensure quality, security, and compliance?
-- **Management:** How do we version, test, and maintain prompts at scale?
-- **Value:** What is the ROI, and how does this align with business goals?
-- **Responsibility:** Are we meeting ethical and regulatory requirements (e.g., the EU AI Act)?
+This means:
 
-Without a structured approach, AI adoption becomes fragmented, risky, and unable to deliver sustainable, organization‑wide value.
+• dozens of prompts become hundreds  
+• hundreds become thousands  
+• and every prompt becomes a potential risk, dependency or failure point  
 
+Yet most organizations still treat AI as experimentation rather than as an integrated, governed and scalable capability.
 
-## 🎯 The Solution: A Structured 10-Layer Framework
-The AI Integration Framework provides a vendor‑agnostic, 10‑layer blueprint for moving from experimentation to mature, organization‑wide AI integration.
-It is designed for business, technical, and management roles, ensuring everyone speaks the same language.
+This creates a growing set of unresolved challenges:
 
-### **Core Philosophy: Build Control, Quality, and Value at Every Step**
+- **Governance:**  
+How do we ensure quality, safety, transparency and compliance across thousands of AI interactions?
 
-The framework is built as 10 sequential layers. Each layer adds a new dimension of control, starting with basic standardization and evolving into full automation and strategic alignment.
+- **Management:**  
+How do we version, test, document and maintain prompts, agents and workflows at scale?
 
-#### **🔷 Overview: The 10 Layers**
+- **Value:**  
+How do we connect AI usage to measurable business outcomes, KPIs and ROI?
 
-*   **Layer 0: CORE** – Prompt Framework, standards, definitions.
-*   **Layer 1: METADATA & GOVERNANCE** – Roles, traceability, documentation.
-*   **Layer 2: QUALITY & TESTING** – Evaluation, safety, consistency.
-*   **Layer 3: LIFECYCLE & MAINTENANCE** – Versioning, review cycles, feedback.
-*   **Layer 4: DATA & CONTEXT GOVERNANCE** – Lineage, freshness, access control.
-*   **Layer 5: INTEGRATION & EXECUTION** – CI/CD, monitoring, automation.
-*   **Layer 6: VALUE & BUSINESS ALIGNMENT** – KPIs, ROI, measurable outcomes.
-*   **Layer 7: SECURITY & DISASTER RECOVERY** – Incident response, DR, risk controls.
-*   **Layer 8: ADOPTION & KNOWLEDGE** – Training, onboarding, best practices.
-*   **Layer 9: ECOSYSTEM & EXTENSIBILITY** – APIs, plugins, community standards.
+- **Responsibility:**  
+How do we meet ethical and regulatory requirements such as the EU AI Act, ISO 42001 and NIST AI RMF?
+
+Without a structured architecture, AI adoption becomes fragmented, inconsistent, risky and unscalable.  
+Organizations lose control over the very technology they depend on.
 
 ---
 
-### **📈 The AI Maturity Model: Your Roadmap**
+# 🎯 The Solution: A Structured 10‑Layer Framework
 
-The framework is directly linked to a clear maturity model, guiding your journey:
-*   **Level 0 → 1:** From Chaos to Standards (Layer 0)
-*   **Level 1 → 2:** From Standards to Governance (Layers 1, 3)
-*   **Level 2 → 3:** From Governance to Automation (Layers 2, 4, 5)
-*   **Level 3 → 4:** From Automation to Strategic Innovation (Layers 6, 7, 8, 9)
+The AI Integration Framework provides a vendor‑agnostic, ten‑layer architecture for structuring every aspect of AI adoption.  
+Similar to how the OSI model organizes network communication, these layers define the complete lifecycle of AI usage.
 
-## 🌟 Why This Framework Is Different  
-Beyond the 10‑layer architecture, the AI Integration Framework introduces five innovations that make it uniquely scalable, teachable and future‑proof.
+## 🧠 A Universal Kernel for All AI Activities
+
+The ten layers form the structural architecture of the AI Integration Framework.  
+The three cross‑cutting frameworks project governance, maturity and competency across every layer.
+
+Together, they create a universal kernel that all AI activities can attach to.  
+This includes prompts, agents, workflows, governance, testing, security, value creation and organizational adoption.
+
+This universal kernel ensures that every AI initiative, regardless of domain or technology, follows the same structure, language and quality standards.
+
+
+## 🔷 Overview of the 10 Layers
+
+**Layer 0: Core**  
+Standards, definitions and the Prompt Framework that ensures consistent, high‑quality AI instructions.
+
+**Layer 1: Metadata and Governance**  
+Roles, documentation, traceability and accountability for every AI interaction.
+
+**Layer 2: Quality and Testing**  
+Evaluation, safety, consistency and automated testing of prompts, agents and workflows.
+
+**Layer 3: Lifecycle and Maintenance**  
+Versioning, review cycles, feedback loops and continuous improvement.
+
+**Layer 4: Data and Context Governance**  
+Data lineage, freshness, access control and context management.
+
+**Layer 5: Integration and Execution**  
+Operationalization, CI/CD, monitoring, automation and runtime controls.
+
+**Layer 6: Value and Business Alignment**  
+KPIs, ROI, measurable outcomes and strategic alignment.
+
+**Layer 7: Security and Disaster Recovery**  
+Risk controls, incident response, backup and recovery.
+
+**Layer 8: Adoption and Knowledge**  
+Training, onboarding, documentation and organizational learning.
+
+**Layer 9: Ecosystem and Extensibility**  
+APIs, plugins, community standards and long‑term scalability.
 
 ---
 
-### 🔹 1. The Prompt Framework  
+
+# 🧱 The Three Cross‑Cutting Frameworks
+
+Above the ten layers sit three cross‑cutting frameworks.  
+These frameworks project their perspective across every layer, ensuring that AI adoption is not only structured, but also governed, measurable and human‑centered.
+
+## ✔ Governance Framework  
+Projects risk, controls, compliance and responsibilities across all layers.  
+Ensures alignment with standards such as the EU AI Act, ISO 42001 and NIST AI RMF.
+
+## ✔ Maturity Model  
+Projects organizational growth, consistency and adoption across all layers.  
+Provides a clear roadmap from experimentation to AI‑Native operations.
+
+## 📈 The AI Maturity Model  
+The Maturity Model provides a clear roadmap for organizational growth.  
+It shows how teams evolve from experimentation to fully AI‑Native operations by progressing through the ten layers.
+
+**Level 0 → 1**  
+From Chaos to Standards (Layer 0)
+
+**Level 1 → 2**  
+From Standards to Governance (Layers 1 and 3)
+
+**Level 2 → 3**  
+From Governance to Automation (Layers 2, 4 and 5)
+
+**Level 3 → 4**  
+From Automation to Strategic Innovation (Layers 6, 7, 8 and 9)
+
+The model helps organizations understand their current state and identify the next steps toward responsible, scalable AI adoption.
+
+## ✔ Competency Framework  
+Projects roles, skills and learning across all layers.  
+Includes the 2×25 Universal Questions that develop AI‑Native thinking, communication and decision‑making.
+
+---
+# 🌟 Why This Framework Is Different
+
+Most AI initiatives focus on tools, models or isolated use cases.  
+The AI Integration Framework takes a fundamentally different approach by providing a complete architecture for responsible, scalable and organization‑wide AI adoption.
+
+It introduces five innovations that make it uniquely powerful.
+
+---
+
+### 1. A Universal 10‑Layer Architecture  
+A structured model that defines the complete lifecycle of AI usage, similar to how the OSI model structures network communication.  
+It ensures that every AI initiative follows the same structure, language and quality standards.
+
+---
+
+### 2. Three Cross‑Cutting Frameworks  
+Governance, maturity and competency project their perspective across every layer.  
+They ensure that AI adoption is controlled, measurable and human‑centered.
+
+---
+
+### 3. The Prompt Framework That Activate Competencies  
 **The operational heart of the entire system.**  
 All components, layers and governance mechanisms ultimately translate into prompts that guide AI behaviour.  
-Using a universal standard of **25 questions**, this framework creates consistent, high‑quality prompts for every sector and every domain.  
-It provides the complete structure for clarity, quality, risk, context and value in every AI interaction, starting at the foundation in  
+Using a universal standard of **25 questions**, the Prompt Framework creates consistent, high‑quality prompts for every sector and every domain.  
+It provides the complete structure for clarity, quality, risk, context and value in every AI interaction.
 
 ➡️ [See the full set of 25 Universal Question Templates](docs/layer-0-core/layer-0-core.md)
 
 ---
 
-### 🔹 2. Universal Questions That Activate Competencies  
+### 4. Universal Questions That Activate Competencies  
 Each layer uses universal, role‑agnostic questions that stimulate critical thinking, collaboration and cross‑functional learning.  
-They activate the core competencies needed in the AI era and create a shared language across business, technology and management.  
+They activate the core competencies needed in the AI era and create a shared language across business, technology and management.
 
 ➡️ [See the full set of 25 Universal Question](docs/universal-questions/README.md)
 
 ---
 
-### 🔹 3. Growth‑Based Components  
+### 5. Growth‑Based Components and KPI Governance  
 Every component in the framework is designed as a growth model: you start small, improve iteratively and scale maturity over time.  
+Quality, risk, compliance and business value are measured continuously across all components and layers, not as an afterthought.
 
 ➡️ [Explore Growth-Based Components](docs/growth-models)
-
----
-
-### 🔹 4. Built‑In KPI & Governance Mechanisms  
-Quality, risk, compliance and business value are measured continuously across all components and layers, not as an afterthought.  
 
 ➡️ [Explore Governance & KPIs](docs/kpi-governance/README.md)
 
 ---
 
-### 🔹 5. The Three AI‑Native Domains  
-The framework integrates seamlessly with three AI‑Native methodologies:
-
-- AI‑Native Agile  
-- AI‑Native TOGAF  
-- AI‑Native Operations
+### 6. AI‑Native Methodologies  
+The framework integrates seamlessly with AI‑Native Agile, AI‑Native TOGAF and AI‑Native Operations, enabling domain‑specific adoption on top of a shared architecture.
 
 ➡️ [Explore the AI‑Native ecosystem](docs/ai-native/README.md)
 
