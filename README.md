@@ -141,6 +141,7 @@ No separate writing, no outdated documents — documentation becomes a natural, 
 Every component is self‑describing, consistent and always up‑to‑date.
 
 ➡️ [Explore the Natural Documentation Engine](docs/documentation-engine)
+
 ---
 
 
