@@ -91,7 +91,8 @@ AI‑Native Management integrates with:
 
 - TOGAF  
 - ITIL / ITSM  
-- COBIT  
+- COBIT
+- PRINCE2  
 - ISO standards (AI, security, quality)  
 - risk management frameworks  
 - compliance and audit  
