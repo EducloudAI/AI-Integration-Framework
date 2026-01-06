@@ -114,7 +114,7 @@ The framework introduces seven innovations that make it uniquely powerful.
 A structured model that defines the complete lifecycle of AI usage, similar to how the OSI model structures network communication.  
 It ensures that every AI initiative follows the same structure, language and quality standards.
 
-➡️ [Explore the 10‑Layer Architecture](#)
+➡️ [Explore the 10‑Layer Architecture](docs/layers)
 
 ---
 ### 2. 35 Clearly Defined Activities and Components
