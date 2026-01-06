@@ -136,9 +136,10 @@ These questions are applied across the framework’s 35 activities, ensuring tha
 ---
 
 ### 4. Natural Documentation Engine  
-Documentation is generated automatically as teams answer structured questions while building any of the 35 components.  
-No separate writing, no outdated documents — documentation becomes a natural, integrated part of the workflow.  
+Documentation is generated automatically as teams answer structured questions while building any of the 35 components.
+No separate writing, no outdated documents. Documentation becomes a natural, integrated part of the workflow.
 Every component is self‑describing, consistent and always up‑to‑date.
+
 
 ➡️ [Explore the Natural Documentation Engine](docs/documentation-engine)
 
