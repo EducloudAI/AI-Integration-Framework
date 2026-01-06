@@ -2,7 +2,7 @@
 *How every domain in the organization evolves into AI‑Native ways of working*
 
 The AI Integration Framework supports the full transformation of modern organizations.  
-It integrates seamlessly with **business**, **IT & development**, and **management & governance** domains, and strengthens the methods they already use.
+It integrates seamlessly with **business**, **IT & development**, and **management & governance** domains, and strengthens the **methods** they already use.
 
 This creates a unified AI‑native foundation across the entire organization.
 
