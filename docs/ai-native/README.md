@@ -10,7 +10,7 @@ This creates a unified AI‑native foundation across the entire organization.
 
 # 🌟 Why AI‑Native Methodologies Are Needed
 
-Traditional frameworks such as Agile, TOGAF, ITIL and Lean were created before AI became central to business operations.  
+Traditional frameworks such as Agile, TOGAF, ITIL, Lean and Devops were created before AI became central to business operations.  
 As a result, they lack:
 
 - AI‑specific governance  
