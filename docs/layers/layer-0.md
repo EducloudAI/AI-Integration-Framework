@@ -53,7 +53,7 @@ Additional questions cover:
 - **Version Control & Maintenance**
 - **Ethical Considerations**
 
-[View the complete 25-question list](prompt-questions.md)
+[View the complete 25-question list](docs/layer-0-core/prompt-questions.md)
 
 ## 🚀 How to Use the Framework
 
