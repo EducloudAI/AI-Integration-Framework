@@ -15,7 +15,7 @@ Each layer links to a **dedicated deep‑dive page** with detailed explanations,
 - Defines the prompt architecture, templates and naming conventions  
 - Establishes the foundation for every other layer  
 
-➡️ **[Deep dive into Layer 0](layers/layer-0.md)**
+➡️ **[Deep dive into Layer 0](docs/layers/layer-0.md)**
 
 ---
 
@@ -25,7 +25,7 @@ Each layer links to a **dedicated deep‑dive page** with detailed explanations,
 - Defines metadata, roles and legal disclaimers  
 - Creates governance structures for responsible AI usage  
 
-➡️ **[Deep dive into Layer 1](layers/layer-1.md)**
+➡️ **[Deep dive into Layer 1](layers/layers-1.md)**
 
 ---
 
