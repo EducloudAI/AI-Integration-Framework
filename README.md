@@ -123,7 +123,7 @@ Each of the ten layers contains a subset of the framework’s **35 clearly defin
 Together, these activities operationalize the architecture into concrete and repeatable actions that teams can perform across roles, domains and technologies.  
 Each activity produces a **distinct component** within the framework.
 
-➡️ [Explore the 35 Activities and Components](#)
+➡️ [Explore the 35 Activities and Components](docs/activities)
 
 ---
 ### 3. Universal Questions That Activate Cross‑Functional Competencies  
