@@ -106,7 +106,7 @@ Activities include integration patterns, extension guidelines and ecosystem gove
 Most AI initiatives focus on tools, models or isolated use cases.  
 The AI Integration Framework takes a fundamentally different approach by providing a complete architecture for responsible, scalable and organization‑wide AI adoption.  
 It translates recommendations into concrete actions, and actions into valuable, distinct components within the framework.  
-The framework introduces seven innovations that make it uniquely powerful.
+The framework introduces eight innovations that make it uniquely powerful.
 
 ---
 
@@ -135,14 +135,23 @@ These questions are applied across the framework’s 35 activities, ensuring tha
 
 ---
 
-### 4. Growth‑Based Components and KPI Governance  
+### 4. Natural Documentation Engine  
+Documentation is generated automatically as teams answer structured questions while building any of the 35 components.  
+No separate writing, no outdated documents — documentation becomes a natural, integrated part of the workflow.  
+Every component is self‑describing, consistent and always up‑to‑date.
+
+➡️ [Explore the Natural Documentation Engine](docs/documentation-engine)
+---
+
+
+### 5. Growth‑Based Components and KPI Governance  
 Each of the 35 activities produces a distinct component. Every component within the framework is designed as a growth model, enabling organizations to start small, improve iteratively and increase maturity over time. Quality, risk, compliance and business value are embedded throughout all layers and components as continuous considerations.
 
 ➡️ [Explore Growth‑Based Components](docs/growth-models)  
 ➡️ [Explore Governance and KPIs](docs/kpi-governance/README.md)
 
 ---
-### 5. The Prompt Framework  
+### 6. The Prompt Framework  
 **The operational heart of the entire system.**  
 All components, layers and governance mechanisms ultimately translate into prompts that guide AI behaviour.  
 The Prompt Framework operates at layer 0 and applies a universal standard of 25 analytical and quality‑driven questions. Through this approach, the framework activates essential competencies such as clarity, precision, risk awareness, contextual reasoning and structured thinking.  
@@ -153,7 +162,7 @@ It ensures that every AI interaction is consistent, safe and aligned with organi
 ---
 
 
-### 6. Three Cross Cutting Frameworks  
+### 7. Three Cross Cutting Frameworks  
 The framework is supported by three cross cutting frameworks that apply across every layer and component.  
 **Governance** connects AI usage to measurable business outcomes, KPIs and ROI.  
 **Maturity** defines organizational growth levels from level 0 to level 4.  
@@ -165,7 +174,7 @@ Together, these perspectives ensure that AI adoption remains controlled, measura
 
 ---
 
-### 7. AI‑Native Suite  
+### 8. AI‑Native Suite  
 The framework integrates seamlessly with existing management methods. Examples include AI‑Native Agile, AI‑Native TOGAF and AI‑Native Operations, enabling domain‑specific adoption on top of a shared architecture.
 
 ➡️ [Explore the AI‑Native ecosystem](docs/ai-native/README.md)
