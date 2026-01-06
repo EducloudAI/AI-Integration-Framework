@@ -177,7 +177,8 @@ Together, these perspectives ensure that AI adoption remains controlled, measura
 ---
 
 ### 8. AI‑Native Suite  
-The framework integrates seamlessly with existing management methods. Examples include AI‑Native Agile, AI‑Native TOGAF and AI‑Native Operations, enabling domain‑specific adoption on top of a shared architecture.
+The framework integrates seamlessly with all organizational domains and methods.
+It strengthens business processes, IT operations, development workflows, enterprise architecture, governance models and existing management methods.
 
 ➡️ [Explore the AI‑Native ecosystem](docs/ai-native/README.md)
 
