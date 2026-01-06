@@ -204,6 +204,7 @@ No additional effort is required: learning happens through answering the questio
 
 ➡️ [AI Native Didactics](docs/ai-native-didactics)
 
+---
 
 ## ⚡ Getting Started in 5 Minutes
 
