@@ -194,7 +194,7 @@ This ensures that today’s investment remains future‑proof, scalable and read
 
 ---
 
-### 🔹 10. AI Native Didactics  
+### 10. AI Native Didactics  
 AI Native Didactics forms the educational foundation of the AI Integration Framework.  
 It provides a clear and proven way to build AI skills across an entire organization, from employees and engineers to managers and leaders.
 
