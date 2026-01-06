@@ -106,7 +106,7 @@ Activities include integration patterns, extension guidelines and ecosystem gove
 Most AI initiatives focus on tools, models or isolated use cases.  
 The AI Integration Framework takes a fundamentally different approach by providing a complete architecture for responsible, scalable and organization‑wide AI adoption.  
 It translates recommendations into concrete actions, and actions into valuable, distinct components within the framework.  
-The framework introduces nine innovations that make it uniquely powerful.
+The framework introduces ten innovations that make it uniquely powerful.
 
 ---
 
@@ -194,6 +194,15 @@ This ensures that today’s investment remains future‑proof, scalable and read
 
 ---
 
+### 🔹 10. AI Native Didactics  
+AI Native Didactics forms the educational foundation of the AI Integration Framework.  
+It provides a clear and proven way to build AI skills across an entire organization, from employees and engineers to managers and leaders.
+
+By using the Universal Questions and the Prompt Framework, teams learn to work with AI in a structured, safe and professional manner.  
+No additional effort is required: learning happens through answering the questions themselves, which naturally challenges teams to reflect on governance, value and risk. In doing so, essential competencies such as problem solving and analytical thinking are actively developed.
+
+
+➡️ [AI Native Didactics](docs/ai-native-didactics)
 
 
 ## ⚡ Getting Started in 5 Minutes
