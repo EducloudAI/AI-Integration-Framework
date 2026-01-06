@@ -2,6 +2,7 @@
 *Preparing organizations for the next evolution of AI*
 
 The AI Integration Framework is not only built for today’s AI workflows. It is also designed as the natural foundation for future autonomous agents.  
+
 As AI systems evolve from prompt driven tools to autonomous, goal driven entities, the framework provides a seamless architectural transition.
 
 This ensures that every investment in the framework remains future proof, scalable and ready for the next generation of AI native systems.
