@@ -117,23 +117,21 @@ It ensures that every AI initiative follows the same structure, language and qua
 ➡️ [Explore the 10‑Layer Architecture](#)
 
 ---
-
-### 2. 35 Clearly Defined Activities  
+### 2. 35 Clearly Defined Activities and Components
 
 Each of the ten layers contains a subset of the framework’s **35 clearly defined activities**.  
 Together, these activities operationalize the architecture into concrete and repeatable actions that teams can perform across roles, domains and technologies.  
-Each activity results in a **distinct component** within the framework.
+Each activity produces a **distinct component** within the framework.
 
-
-➡️ [Explore the 35 activities](#)
+➡️ [Explore the 35 Activities and Components](#)
 
 ---
-
 ### 3. Universal Questions That Activate Cross‑Functional Competencies  
-Each layer uses **25 universal, role‑agnostic questions** that stimulate critical thinking, collaboration and cross‑functional learning.  
-These questions are applied directly to the 35 activities defined in each layer, ensuring that every action becomes a structured moment of reflection, governance and quality improvement.
+Each layer uses 25 universal, role‑agnostic questions that stimulate critical thinking, collaboration and cross‑functional learning.  
+These questions are applied across the framework’s 35 activities, ensuring that every action becomes a structured moment of reflection, governance and quality improvement.
 
 ➡️ [See the full set of 25 Universal Questions](docs/universal-questions/README.md)
+
 
 ---
 
