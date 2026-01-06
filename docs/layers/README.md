@@ -15,7 +15,7 @@ Each layer links to a **dedicated deep‑dive page** with detailed explanations,
 - Defines the prompt architecture, templates and naming conventions  
 - Establishes the foundation for every other layer  
 
-➡️ **[Deep dive into Layer 0](docs/layers/layer-0.md)**
+➡️ **[Deep dive into Layer 0](layer-0.md)**
 
 ---
 
