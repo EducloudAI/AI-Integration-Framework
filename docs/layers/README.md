@@ -25,7 +25,7 @@ Each layer links to a **dedicated deep‑dive page** with detailed explanations,
 - Defines metadata, roles and legal disclaimers  
 - Creates governance structures for responsible AI usage  
 
-➡️ **[Deep dive into Layer 1](layers/layers-1.md)**
+➡️ **[Deep dive into Layer 1](layer-1.md)**
 
 ---
 
@@ -35,7 +35,7 @@ Each layer links to a **dedicated deep‑dive page** with detailed explanations,
 - Standardizes testing, risk checks and safety controls  
 - Ensures every prompt meets quality and compliance standards  
 
-➡️ **[Deep dive into Layer 2](layers/layer-2.md)**
+➡️ **[Deep dive into Layer 2](layer-2.md)**
 
 ---
 
@@ -45,7 +45,7 @@ Each layer links to a **dedicated deep‑dive page** with detailed explanations,
 - Defines workflows, iteration loops and change management  
 - Ensures prompts evolve safely over time  
 
-➡️ **[Deep dive into Layer 3](layers/layer-3.md)**
+➡️ **[Deep dive into Layer 3](layer-3.md)**
 
 ---
 
@@ -55,7 +55,7 @@ Each layer links to a **dedicated deep‑dive page** with detailed explanations,
 - Manages lineage, freshness and permission logging  
 - Protects data quality and context reliability  
 
-➡️ **[Deep dive into Layer 4](layers/layer-4.md)**
+➡️ **[Deep dive into Layer 4](layer-4.md)**
 
 ---
 
@@ -65,7 +65,7 @@ Each layer links to a **dedicated deep‑dive page** with detailed explanations,
 - Defines export formats, CI/CD and monitoring hooks  
 - Ensures AI outputs can be deployed and executed reliably  
 
-➡️ **[Deep dive into Layer 5](layers/layer-5.md)**
+➡️ **[Deep dive into Layer 5](layer-5.md)**
 
 ---
 
@@ -75,7 +75,7 @@ Each layer links to a **dedicated deep‑dive page** with detailed explanations,
 - Links prompts to KPIs, value metrics and analytics  
 - Ensures every AI initiative contributes to real outcomes  
 
-➡️ **[Deep dive into Layer 6](layers/layer-6.md)**
+➡️ **[Deep dive into Layer 6](layer-6.md)**
 
 ---
 
@@ -85,7 +85,7 @@ Each layer links to a **dedicated deep‑dive page** with detailed explanations,
 - Defines kill switches, backups, incident response and audit trails  
 - Ensures resilience and operational continuity  
 
-➡️ **[Deep dive into Layer 7](layers/layer-7.md)**
+➡️ **[Deep dive into Layer 7](layer-7.md)**
 
 ---
 
@@ -95,7 +95,7 @@ Each layer links to a **dedicated deep‑dive page** with detailed explanations,
 - Provides training, best practices, examples and maturity models  
 - Ensures teams can adopt and apply AI effectively  
 
-➡️ **[Deep dive into Layer 8](layers/layer-8.md)**
+➡️ **[Deep dive into Layer 8](layer-8.md)**
 
 ---
 
@@ -105,6 +105,6 @@ Each layer links to a **dedicated deep‑dive page** with detailed explanations,
 - Defines APIs, plugins and community structures  
 - Ensures long‑term extensibility and innovation  
 
-➡️ **[Deep dive into Layer 9](layers/layer-9.md)**
+➡️ **[Deep dive into Layer 9](layer-9.md)**
 
 ---
