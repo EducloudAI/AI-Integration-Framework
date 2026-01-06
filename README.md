@@ -106,7 +106,7 @@ Activities include integration patterns, extension guidelines and ecosystem gove
 Most AI initiatives focus on tools, models or isolated use cases.  
 The AI Integration Framework takes a fundamentally different approach by providing a complete architecture for responsible, scalable and organization‑wide AI adoption.  
 It translates recommendations into concrete actions, and actions into valuable, distinct components within the framework.  
-The framework introduces eight innovations that make it uniquely powerful.
+The framework introduces nine innovations that make it uniquely powerful.
 
 ---
 
@@ -182,6 +182,18 @@ The framework integrates seamlessly with existing management methods. Examples i
 ➡️ [Explore the AI‑Native ecosystem](docs/ai-native/README.md)
 
 ---
+
+### 9. Autonomous Agent‑Ready Architecture  
+The framework is designed as the natural foundation for future autonomous agents.  
+Layer 0, which currently powers the Prompt Framework, can evolve seamlessly into an Agent Framework without changing the architecture above it.  
+
+This ensures that today’s investment remains future‑proof, scalable and ready for the next generation of AI‑native systems.
+
+➡️ [➡️ Discover Autonomous Agent‑Ready Architecture(docs/autonomous-architecture/README.md)
+
+---
+
+
 
 ## ⚡ Getting Started in 5 Minutes
 
