@@ -189,7 +189,7 @@ Layer 0, which currently powers the Prompt Framework, can evolve seamlessly into
 
 This ensures that today’s investment remains future‑proof, scalable and ready for the next generation of AI‑native systems.
 
-➡️ [Discover Autonomous Agent‑Ready Architecture(docs/autonomous-architecture/README.md)
+➡️ [Discover Autonomous Agent‑Ready Architecture](docs/autonomous-architecture)
 
 ---
 
