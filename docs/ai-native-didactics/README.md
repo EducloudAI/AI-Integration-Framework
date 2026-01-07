@@ -43,9 +43,11 @@ By working with the Universal Questions and the Prompt Framework, teams develop 
 - 🧩 problem solving  
 - 🔍 analytical thinking  
 - 🧭 critical reasoning  
+- 🎨 creativity
 - 🧾 structured communication  
 - 🤖 responsible AI use  
 - 🏛️ governance awareness  
+
 
 These competencies are required for AI Native organizations and form the basis for safe and scalable AI adoption.
 
