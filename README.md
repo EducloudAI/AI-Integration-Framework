@@ -163,7 +163,7 @@ All components, layers and governance mechanisms ultimately translate into promp
 The Prompt Framework operates at layer 0 and applies a universal standard of 25 analytical and quality‑driven questions. Through this approach, the framework activates essential competencies such as clarity, precision, risk awareness, contextual reasoning and structured thinking.  
 It ensures that every AI interaction is consistent, safe and aligned with organizational goals.
 
-➡️ [See the full set of 25 Prompt Framework Questions](docs/layer-0-core/layer-0-core.md)
+➡️ [See the full set of 25 Prompt Framework Questions](docs/layers/layer-0)
 
 ---
 
