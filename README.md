@@ -176,7 +176,7 @@ The framework is supported by three cross cutting frameworks that apply across e
 
 Together, these perspectives ensure that AI adoption remains controlled, measurable and human centered.
 
-➡️ [Explore the Three Cross Cutting Frameworks](#)
+➡️ [Explore the Three Cross Cutting Frameworks](docs/cross-cutting-frameworks)
 
 ---
 
