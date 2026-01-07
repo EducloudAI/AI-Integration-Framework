@@ -206,7 +206,7 @@ By using the Universal Questions and the Prompt Framework, teams learn to work w
 No additional effort is required: learning happens through answering the questions themselves, which naturally challenges teams to reflect on governance, value and risk. In doing so, essential competencies such as problem solving and analytical thinking are actively developed.
 
 
-➡️ [AI Native Didactics](docs/ai-native/)
+➡️ [AI Native Didactics](docs/ai-native-didactics)
 
 ---
 ### 🌟 Elegant by Design  
