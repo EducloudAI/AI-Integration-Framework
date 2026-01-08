@@ -188,13 +188,11 @@ It strengthens business processes, IT operations, development workflows, enterpr
 
 ---
 
-### 9. Autonomous Agent‑Ready Architecture  
-The framework is designed as the natural foundation for future autonomous agents.  
-Layer 0, which currently powers the Prompt Framework, can evolve seamlessly into an Agent Framework without changing the architecture above it.  
+### 9. Future‑Agnostic Architecture  
+The framework is designed as a universal foundation for any form of AI, from today's prompts to tomorrow's autonomous agents, quantum AI systems, and beyond.  
+This ensures your investment remains relevant across AI generations, protecting you from technological obsolescence while maintaining consistent governance.
 
-This ensures that today’s investment remains future‑proof, scalable and ready for the next generation of AI‑native systems.
-
-➡️ [Discover Autonomous Agent‑Ready Architecture](docs/autonomous-architecture)
+➡️ [Discover the Future‑Agnostic Architecture](docs/autonomous-architecture)
 
 ---
 
