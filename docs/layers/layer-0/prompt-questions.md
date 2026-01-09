@@ -37,14 +37,16 @@
 
 ### Excel Template (Recommended)
 **[📥 prompt-framework-template.xlsx](https://github.com/EducloudAI/AI-Integration-Framework/raw/main/templates/prompt-framework-template.xlsx)**
-*Complete 25-question framework with:*
+
+*The Complete the 25 Prompt Questions with:*
 - Sector-specific examples (Healthcare, Finance, Education)
 - AI Act compliance checklist
 - Auto-quality scoring
-- One-click export to JSON/YAML
+- Structured export formats such as JSON and YAML
 
 ### JSON Template (for Developers)
 **[📄 prompt-definition.json](../../templates/prompt-definition.json)**  
+
 *Machine-readable format for API integration:*
 - Structured JSON schema
 - Compatible with CI/CD pipelines
