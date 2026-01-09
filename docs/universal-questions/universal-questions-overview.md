@@ -47,11 +47,11 @@ This format makes the Universal Questions directly applicable in workshops, temp
 
 | Question | Purpose | Example Answer |
 |---------|----------|----------------|
-| What data or context does this depend on | Identify required inputs | "Incident logs, capacity reports, customer tickets" |
-| Is the data fresh, accurate and authorized | Ensure data integrity | "Updated daily; validated by operations team" |
-| What assumptions does this component rely on | Make implicit logic explicit | "Ticket categories are consistently labeled" |
-| What happens if the context or data changes | Assess adaptability | "Re‑run analysis and notify manager" |
-| What are the limitations of the data or inputs | Identify constraints | "No real‑time GPS data available" |
+| What data or context does this depend on | Identify required inputs | "Incident logs, capacity reports and customer tickets used to understand the operational situation" |
+| Is the data fresh, accurate and authorized | Ensure data integrity | "Data is updated daily, validated by the operations team and only accessible to authorized staff" |
+| What assumptions does this component rely on | Make implicit logic explicit | "Assumes ticket categories are consistently labeled and timestamps are reliable across all systems" |
+| What happens if the context or data changes | Assess adaptability | "If data changes, the analysis must be re‑run and the manager notified of any significant differences" |
+| What are the limitations of the data or inputs | Identify constraints | "Some inputs lack real‑time GPS data or complete customer history, which may limit precision" |
 
 ---
 
