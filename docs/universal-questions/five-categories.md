@@ -6,7 +6,8 @@ Each category strengthens a different dimension of thinking and decision making.
 Together, they form a complete cognitive framework that guides teams through clarity, quality, governance, context and value.
 
 Below you will find the **official, numbered list of 25 Universal Questions**.  
-➡️ View the Universal Questions in table format (Question – Purpose – Example Answer)
+➡️ [View the Universal Questions in table format (Question – Purpose – Example Answer)
+](docs/universal-questions-overview)
 
 This is the definitive set used across the entire AI Integration Framework.
 
