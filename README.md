@@ -210,7 +210,7 @@ No additional effort is required: learning happens through answering the questio
 ---
 
 ### 11. Flexible Adoption Paths for Every Organization
-Our framework works far beyond technology teams, in healthcare diagnostics, legal research, educational curricula, financial risk assessment, government services, and creative workflows. Wherever AI is used, our governance architecture provides structure, safety, and measurable value.
+Our framework works far beyond technology teams, in educational curricula, healthcare diagnostics, legal research, financial risk assessment, government services, and creative workflows. Wherever AI is used, our governance architecture provides structure, safety, and measurable value.
 
 ➡️ [Discover Cross‑Sector Applications](docs/adoption-paths/)
 
