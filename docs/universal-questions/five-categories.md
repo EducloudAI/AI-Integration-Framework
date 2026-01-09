@@ -8,7 +8,7 @@ Together, they form a complete cognitive framework that guides teams through cla
 Below you will find the official, numbered list of the 25 Universal Questions.
 
 ➡️ [View the Universal Questions in table format (Question – Purpose – Example Answer)
-](universal-questions-overview)
+](universal-questions-overview.md)
 
 This set is definitive for the entire AI Integration Framework.
 
