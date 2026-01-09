@@ -94,7 +94,8 @@ Universal questions activate these competencies automatically, without training 
 # 🔗 How Universal Questions Fit Into the Framework  
 Universal questions are used in:
 
-- the ten layers  
+- the ten layers
+- the 35 components 
 - the maturity model  
 - the scoring system  
 - governance templates  
