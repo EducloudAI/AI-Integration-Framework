@@ -2,8 +2,7 @@
 
 **A universal, layered architecture for scaling AI from isolated experiments to responsible, enterprise‑wide adoption, powered by governance, maturity, competency and structured activities.**
 
-🕰️ **Timeless by Design**  
-Built on universal principles that evolve with AI, never becoming obsolete.
+🕰️ Timeless by Design, built on universal principles that evolve with AI, never becoming obsolete.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status: Active Development](https://img.shields.io/badge/Status-Active_Development-blue)](https://github.com/EducloudAI/AI-Integration-Framework)
