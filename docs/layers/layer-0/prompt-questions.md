@@ -1,37 +1,39 @@
-# Complete Prompt Framework: 25 Questions
+# Prompt Framework: A 25-Question Structure for Responsible AI
 
-## Tier 1: Essentials (10 Questions)
-**For everyday tasks and non-critical processes.**
+### 📋 Tier 1: The Essentials (10 Questions)
+**For everyday AI tasks and non-critical processes.**
 
-1. **Task Description** - Clear statement of what AI should accomplish
-2. **Intended Use** - Specific scenarios where this prompt will be used
-3. **Non-Intended Use** - Boundaries and limitations
-4. **Context** - Background information and environment
-5. **Input** - What data/format AI receives
-6. **Output** - Expected format and content
-7. **Quality Criteria** - Standards for successful output
-8. **Human Oversight** - Who reviews and approves
-9. **Success Criteria** - Measurable outcomes
-10. **Constraints** - Technical, legal, or operational limits
-
-## Tier 2: Advanced Governance (15 Questions)
+### 🛡️ Tier 2: Advanced Governance (15 Questions)
 **For critical business processes, regulated industries, or high-risk applications.**
 
-11. **Risk Awareness** - Potential negative impacts and mitigation
-12. **Business Alignment** - Connection to KPIs and strategic goals
-13. **Legal Compliance** - Regulatory requirements (e.g., EU AI Act, GDPR)
-14. **Ethical Considerations** - Fairness, bias, transparency, accountability
-15. **Data Governance** - Source, quality, lineage, and privacy
-16. **Version Control** - Change tracking and history maintenance
-17. **Testing Protocol** - Validation methods and acceptance criteria
-18. **Performance Metrics** - Speed, accuracy, cost, reliability
-19. **Security Requirements** - Access controls, encryption, authentication
-20. **Audit Trail** - Logging, monitoring, and traceability
-21. **Stakeholder Roles** - RACI matrix (Responsible, Accountable, Consulted, Informed)
-22. **Review Cycle** - Periodic reassessment schedule
-23. **Escalation Path** - Issue resolution procedures
-24. **Training Requirements** - User competency and certification needs
-25. **Documentation Standards** - Format, storage, and maintenance procedures
+
+| #  | Tier | Question                 | Purpose                                              | Example Answer |
+|----|------|--------------------------|------------------------------------------------------|----------------|
+| 1  | 1 | Task Description          | What should AI do?                                   | "Generate first-draft responses to customer FAQ about shipping" |
+| 2  | 1 | Intended Use              | Where and when will this be used?                    | "Internal helpdesk during peak hours" |
+| 3  | 1 | Non-Intended Use          | What should AI not do?                               | "Make final decisions or process refunds" |
+| 4  | 1 | Context                   | Provide relevant background information              | "We are an e-commerce store with a 2-day delivery promise" |
+| 5  | 1 | Input                     | What data does AI receive?                           | "Customer question plus order number" |
+| 6  | 1 | Output                    | What should AI produce?                              | "150-word draft response in a friendly tone" |
+| 7  | 1 | Quality Criteria          | Define success and quality indicators                | "Accurate, empathetic, includes tracking link" |
+| 8  | 1 | Human Oversight           | Who reviews or approves the output?                  | "Helpdesk supervisor reviews all responses" |
+| 9  | 1 | Success Criteria          | How do we know it works?                             | "30% faster response time, 90% approval rate" |
+| 10 | 1 | Constraints               | Define limits and boundaries                         | "No personal data, maximum three variations" |
+| 11 | 2 | Risk Awareness            | Identify risks and mitigation measures               | "Human review required; automated risk flags enabled" |
+| 12 | 2 | Business Alignment        | Connect to KPIs and strategic objectives             | "Supports KPI: reduced incident resolution time" |
+| 13 | 2 | Legal Compliance          | Ensure regulatory alignment                          | "Complies with GDPR Art. 6 and EU AI Act transparency rules" |
+| 14 | 2 | Ethical Considerations    | Address fairness, bias and accountability            | "Bias checks applied; reasoning steps documented" |
+| 15 | 2 | Data Governance           | Define data sources, quality and lineage              | "Verified internal datasets; lineage tracked; PII masked" |
+| 16 | 2 | Version Control           | Track changes and maintain history                   | "Semantic versioning in Git with full change log" |
+| 17 | 2 | Testing Protocol          | Define validation and acceptance criteria             | "Safety and scenario tests; accuracy threshold ≥95%" |
+| 18 | 2 | Performance Metrics       | Measure performance, cost and reliability             | "Latency <2s; accuracy >90%; cost <€0.01 per run" |
+| 19 | 2 | Security Requirements     | Define access control and encryption                  | "RBAC enforced; encrypted at rest and in transit" |
+| 20 | 2 | Audit Trail               | Ensure logging and traceability                       | "All interactions logged with timestamp and reviewer ID" |
+| 21 | 2 | Stakeholder Roles         | Define RACI responsibilities                         | "Ops responsible; Manager accountable; Legal consulted" |
+| 22 | 2 | Review Cycle              | Define reassessment frequency                         | "Quarterly review of risks and performance" |
+| 23 | 2 | Escalation Path           | Define incident escalation procedures                | "Critical failures escalate within one hour" |
+| 24 | 2 | Training Requirements     | Define competency and certification needs             | "AI Safety Level 1 training required before access" |
+| 25 | 2 | Documentation Standards   | Define documentation format and maintenance           | "Stored centrally; updated on each version release" |
 
 ## 📥 Download Templates
 
