@@ -111,8 +111,7 @@ The AI Integration Framework takes a fundamentally different approach by acting 
 Instead of offering fragmented methods, it provides a complete structure for responsible, scalable and organization‑wide AI adoption.  
 It translates recommendations into concrete actions, and actions into valuable, distinct components within the framework.
 
-The framework introduces twelve innovations that make it uniquely powerful.
-
+The framework introduces eleven innovations that make it uniquely powerful.
 
 ---
 
@@ -126,22 +125,31 @@ It ensures that every AI initiative follows the same structure, language and qua
 ### 2. 35 Clearly Defined Activities and Components
 
 Each of the ten layers contains a subset of the framework’s **35 clearly defined activities**.  
-Together, these activities operationalize the architecture into concrete and repeatable actions that teams can perform across roles, domains and technologies.  
-Each activity produces a **distinct component** within the framework.
+Together, these activities operationalize the architecture into concrete and repeatable actions that teams can perform across roles, domains and technologies. Each activity produces a **distinct component** within the framework.
 
 ➡️ [Explore the 35 Activities and Components](docs/activities)
 
 ---
+
+
 ### 3. Universal Questions That Activate Cross‑Functional Competencies  
 Each layer uses 25 universal, role‑agnostic questions that stimulate critical thinking, collaboration and cross‑functional learning.  
 These questions are applied across the framework’s 35 activities, ensuring that every action becomes a structured moment of reflection, governance and quality improvement.
 
 ➡️ [See the full set of 25 Universal Questions](docs/universal-questions/README.md)
 
+---
+
+### 4. The Prompt Framework  
+**The operational heart of the entire system.**  
+All components, layers and governance mechanisms ultimately translate into prompts that guide AI behaviour.  
+The Prompt Framework operates at layer 0 and applies a universal standard of 25 analytical and quality‑driven questions. Through this approach, the framework activates essential competencies such as clarity, precision, risk awareness, contextual reasoning and structured thinking. It ensures that every AI interaction is consistent, safe and aligned with organizational goals.
+
+➡️ [See the full set of 25 Prompt Framework Questions](docs/layers/layer-0)
 
 ---
 
-### 4. Natural Documentation Engine  
+### 5. Natural Documentation Engine  
 Documentation is generated automatically as teams answer structured questions while building any of the 35 components.
 No separate writing, no outdated documents. Documentation becomes a natural, integrated part of the workflow.
 Every component is self‑describing, consistent and always up‑to‑date.
@@ -151,26 +159,27 @@ Every component is self‑describing, consistent and always up‑to‑date.
 
 ---
 
-
-### 5. Growth‑Based Components and KPI Governance  
+### 6. Growth‑Based Components and KPI Governance  
 Each of the 35 activities produces a distinct component. Every component within the framework is designed as a growth model, enabling organizations to start small, improve iteratively and increase maturity over time. Quality, risk, compliance and business value are embedded throughout all layers and components as continuous considerations.
 
 ➡️ [Explore Growth‑Based Components](docs/growth-models)  
 ➡️ [Explore Governance and KPIs](docs/kpi-governance/README.md)
 
 ---
-### 6. The Prompt Framework  
-**The operational heart of the entire system.**  
-All components, layers and governance mechanisms ultimately translate into prompts that guide AI behaviour.  
-The Prompt Framework operates at layer 0 and applies a universal standard of 25 analytical and quality‑driven questions. Through this approach, the framework activates essential competencies such as clarity, precision, risk awareness, contextual reasoning and structured thinking.  
-It ensures that every AI interaction is consistent, safe and aligned with organizational goals.
 
-➡️ [See the full set of 25 Prompt Framework Questions](docs/layers/layer-0)
+### 7. AI Native Didactics  
+AI Native Didactics forms the educational foundation of the AI Integration Framework.  
+It provides a clear and proven way to build AI skills across an entire organization, from employees and engineers to managers and leaders.
+
+By using the Universal Questions and the Prompt Framework, teams learn to work with AI in a structured, safe and professional manner.  
+No additional effort is required: learning happens through answering the questions themselves, which naturally challenges teams to reflect on governance, value and risk. In doing so, essential competencies such as problem solving and analytical thinking are actively developed.
+
+
+➡️ [AI Native Didactics](docs/ai-native-didactics)
 
 ---
 
-
-### 7. Three Cross Cutting Frameworks  
+### 8. Three Cross Cutting Frameworks  
 The framework is supported by three cross cutting frameworks that apply across every layer and component.  
 **Governance** connects AI usage to measurable business outcomes, KPIs and ROI.  
 **Maturity** defines organizational growth levels from level 0 to level 4.  
@@ -182,7 +191,7 @@ Together, these perspectives ensure that AI adoption remains controlled, measura
 
 ---
 
-### 8. AI‑Native Suite  
+### 9. AI‑Native Suite  
 The framework integrates seamlessly with all organizational domains and methods.
 It strengthens business processes, IT operations, development workflows, enterprise architecture, governance models and existing management methods.
 
@@ -190,22 +199,10 @@ It strengthens business processes, IT operations, development workflows, enterpr
 
 ---
 
-### 9. Timeless AI Architecture  
+### 10. Timeless AI Architecture  
 Universal principles and 25 questions that work across all AI generations. Protect your governance investment from obsolescence as AI evolves from prompts to agents, quantum systems, and beyond.
 
 ➡️ [Discover the Future‑Agnostic Architecture](docs/ai-generations-architecture)
-
----
-
-### 10. AI Native Didactics  
-AI Native Didactics forms the educational foundation of the AI Integration Framework.  
-It provides a clear and proven way to build AI skills across an entire organization, from employees and engineers to managers and leaders.
-
-By using the Universal Questions and the Prompt Framework, teams learn to work with AI in a structured, safe and professional manner.  
-No additional effort is required: learning happens through answering the questions themselves, which naturally challenges teams to reflect on governance, value and risk. In doing so, essential competencies such as problem solving and analytical thinking are actively developed.
-
-
-➡️ [AI Native Didactics](docs/ai-native-didactics)
 
 ---
 
