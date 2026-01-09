@@ -1,15 +1,16 @@
-# 📚 The Five Categories of Universal Questions  
-**The complete, canonical set of 25 questions used across all layers, roles and maturity levels**
+## 📚 The Five Categories of Universal Questions
+The canonical set of 25 questions used across all layers, components, roles and maturity levels.
 
-Universal questions are organized into five categories.  
-Each category strengthens a different dimension of thinking and decision making.  
+Universal questions are organized into five categories.
+Each category strengthens a different dimension of thinking and decision making.
 Together, they form a complete cognitive framework that guides teams through clarity, quality, governance, context and value.
 
-Below you will find the **official, numbered list of 25 Universal Questions**.  
+Below you will find the official, numbered list of the 25 Universal Questions.
+
 ➡️ [View the Universal Questions in table format (Question – Purpose – Example Answer)
 ](docs/universal-questions-overview)
 
-This is the definitive set used across the entire AI Integration Framework.
+This set is definitive for the entire AI Integration Framework.
 
 ---
 
