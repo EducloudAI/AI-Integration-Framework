@@ -154,21 +154,21 @@ Prompt Questions operate exclusively at layer 0.
 
 ---
 
-### 5. Natural Documentation Engine  
+### 5. Growth‑Based Components and KPI Governance  
+Each of the 35 activities produces a distinct component. Every component within the framework is designed as a growth model, enabling organizations to start small, improve iteratively and increase maturity over time. Quality, risk, compliance and business value are embedded throughout all layers and components as continuous considerations.
+
+➡️ [Explore Growth‑Based Components](docs/growth-models)  
+➡️ [Explore Governance and KPIs](docs/kpi-governance/README.md)
+
+---
+
+### 6. Natural Documentation Engine  
 Documentation is generated automatically as teams answer structured questions while building any of the 35 components.
 No separate writing, no outdated documents. Documentation becomes a natural, integrated part of the workflow.
 Every component is self‑describing, consistent and always up‑to‑date.
 
 
 ➡️ [Explore the Natural Documentation Engine](docs/documentation-engine)
-
----
-
-### 6. Growth‑Based Components and KPI Governance  
-Each of the 35 activities produces a distinct component. Every component within the framework is designed as a growth model, enabling organizations to start small, improve iteratively and increase maturity over time. Quality, risk, compliance and business value are embedded throughout all layers and components as continuous considerations.
-
-➡️ [Explore Growth‑Based Components](docs/growth-models)  
-➡️ [Explore Governance and KPIs](docs/kpi-governance/README.md)
 
 ---
 
@@ -204,17 +204,17 @@ It strengthens business processes, IT operations, development workflows, enterpr
 
 ---
 
-### 10. Timeless AI Architecture  
-25 Universal Questions that remain valid across all AI generations. Protect your governance investment from obsolescence as AI evolves from prompts to agents, quantum systems, and neural interfaces.
-
-➡️ [Discover the Future‑Agnostic Architecture](docs/ai-generations-architecture)
-
----
-
-### 11. Flexible Adoption Paths for Every Organization
+### 10. Flexible Adoption Paths for Every Organization
 Our framework works far beyond technology teams, in educational curricula, healthcare diagnostics, legal research, financial risk assessment, government services, and creative workflows. Wherever AI is used, our governance architecture provides structure, safety, and measurable value.
 
 ➡️ [Discover Cross‑Sector Applications](docs/adoption-paths/)
+
+---
+
+### 11. Timeless AI Architecture  
+25 Universal Questions that remain valid across all AI generations. Protect your governance investment from obsolescence as AI evolves from prompts to agents, quantum systems, and neural interfaces.
+
+➡️ [Discover the Future‑Agnostic Architecture](docs/ai-generations-architecture)
 
 ---
 
