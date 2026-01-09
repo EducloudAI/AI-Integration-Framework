@@ -1,12 +1,9 @@
 # 🔹 Universal Questions That Activate Competencies  
 **The core innovation that transforms people from executors into AI era directors**
 
-Universal questions are the most distinctive and powerful element of the AI Integration Framework.  
-They provide a thinking structure that works across every layer, every role and every maturity level.  
+Universal Questions are the most distinctive and powerful element of the AI Integration Framework. They provide a thinking structure that works across every layer, every role and every maturity level. Instead of relying on knowledge, roles or procedures, the Universal Questions activate the competencies that modern organizations need in the age of AI.
 
-Instead of relying on knowledge, roles or procedures, universal questions activate the competencies that modern organizations need in the age of AI.
-
-They are the didactic heart of the framework.
+Each activity within the framework uses the 25 Universal Questions as a cross‑functional thinking structure and produces a distinct component. This ensures that every component is built through the same lens of clarity, quality, governance, context and value.
 
 ---
 # 📚 The Five Categories of Universal Questions  
@@ -20,7 +17,7 @@ They are organized into five categories that apply to every component:
 - Value and Impact  
 
 Each category strengthens a different dimension of thinking and decision making.  
-Together, they form the universal thinking structure used across all layers, roles and maturity levels.
+Together, they form the universal thinking structure used across all layers, components, roles and maturity levels.
 
 ➡️ [Explore the five categories and the full set of 25 Universal Questions](five-categories.md)
 
