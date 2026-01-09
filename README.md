@@ -140,8 +140,15 @@ These questions are applied across the framework’s 35 activities, ensuring tha
 
 ### 4. The Prompt Framework  
 **The operational heart of the entire system.**  
-All components, layers and governance mechanisms ultimately translate into prompts that guide AI behaviour.  
-The Prompt Framework operates at layer 0 and applies a universal standard of 25 analytical and quality‑driven questions. Through this approach, the framework activates essential competencies such as clarity, precision, risk awareness, contextual reasoning and structured thinking. It ensures that every AI interaction is consistent, safe and aligned with organizational goals.
+All components, layers and governance mechanisms ultimately translate into prompts that guide AI behaviour.
+The Prompt Framework operates at layer 0 and applies a standardized set of 25 Prompt Questions that translate human intent into precise AI instructions.
+This ensures that every AI interaction is consistent, safe and aligned with organizational objectives.
+
+The framework clearly distinguishes between two complementary question sets.
+
+Universal Questions operate across all layers and components. 
+
+Prompt Questions operate exclusively at layer 0. 
 
 ➡️ [See the full set of 25 Prompt Framework Questions](docs/layers/layer-0)
 
