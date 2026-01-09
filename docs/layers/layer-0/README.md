@@ -69,7 +69,7 @@ Additional questions cover:
 
 ### Step 3: Create Your Prompt Definition
 
-A filled template becomes a **Prompt Definition** - a living document that:
+A filled template becomes a **Prompt Definition**, a living document that:
 - Can be version controlled
 - Is auditable
 - Can be tested and validated
