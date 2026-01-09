@@ -109,7 +109,7 @@ The AI Integration Framework takes a fundamentally different approach by acting 
 Instead of offering fragmented methods, it provides a complete structure for responsible, scalable and organization‑wide AI adoption.  
 It translates recommendations into concrete actions, and actions into valuable, distinct components within the framework.
 
-The framework introduces eleven innovations that make it uniquely powerful.
+The framework introduces twelve innovations that make it uniquely powerful.
 
 ---
 
@@ -205,7 +205,7 @@ It strengthens business processes, IT operations, development workflows, enterpr
 ---
 
 ### 10. Timeless AI Architecture  
-Universal principles and 25 questions that work across all AI generations. Protect your governance investment from obsolescence as AI evolves from prompts to agents, quantum systems, and beyond.
+25 Universal Questions that remain valid across all AI generations. Protect your governance investment from obsolescence as AI evolves from prompts to agents, quantum systems, and neural interfaces.
 
 ➡️ [Discover the Future‑Agnostic Architecture](docs/ai-generations-architecture)
 
@@ -218,6 +218,15 @@ Our framework works far beyond technology teams, in educational curricula, healt
 
 ---
 
+### 12. Meta‑Framework Architecture
+The framework is built as a meta‑framework: a universal, extensible architecture that remains stable across technologies, sectors and future AI generations.
+This design principle enables several of the framework’s core capabilities, including the AI‑Native Suite, Timeless AI Architecture, Cross‑Sector Adoption and the Three Cross‑Cutting Frameworks.
+
+➡️ [Explore the Meta‑Framework Architecture](docs/meta-framework/)
+
+---
+
+
 ### 🌟 Elegant by Design  
 Although the AI Integration Framework is broad and comprehensive, it remains remarkably clear and straightforward.  
 No unnecessary complexity, no abstract detours, just a clean and logical structure that anyone can understand.
@@ -226,6 +235,7 @@ Every layer, component and question is designed to be immediately useful.
 This elegance makes the framework accessible for all roles in an organization, while still providing the depth required for enterprise‑level AI adoption.
 
 ---
+
 ## ⚡ Getting Started in 5 Minutes
 
 1.  **Understand the Core:** Start with **[Layer 0: The Prompt Framework](docs/layer-0-core/layer-0-core.md)**. This is the foundational tool for creating clear, reusable AI instructions.
