@@ -234,6 +234,15 @@ This elegance makes the framework accessible for all roles in an organization, w
 
 ---
 
+### 🎓 Training and Education Programs
+
+The AI Integration Framework is not only a conceptual and architectural model, but also the foundation for a comprehensive education program.  
+All our courses are built directly on the AI Integration Framework, using the same layers, activities and core principles.
+
+➡️ [Explore the Introduction Courses](courses)
+
+---
+
 ## ⚡ Getting Started in 5 Minutes
 
 1.  **Understand the Core:** Start with **[Layer 0: The Prompt Framework](docs/layer-0-core/layer-0-core.md)**. This is the foundational tool for creating clear, reusable AI instructions.
