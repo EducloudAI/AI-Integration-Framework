@@ -17,45 +17,39 @@ This ensures that participants from different backgrounds can collaborate effect
 
 ## 📚 Program Structure
 
-The education program consists of **4 categories and 16 courses**, covering the full spectrum from creative use to enterprise governance.
+The education program consists of 4 categories and 16 courses, covering the full spectrum from creative use to enterprise governance.
 
 ### 🎨 Creative AI
 Focuses on creative professionals and makers who work with AI as a creative partner.
 
-- **AI Intro for Creatives**  
-- **AI-Native Websites and Apps**  
-- **AI-Native Music**  
-- **AI-Native Virtual Worlds**
-
----
+- [AI Intro for Creatives](courses/creative-ai/intro)
+- [AI-Native Websites and Apps](courses/creative-ai/websites-apps)
+- [AI-Native Music](courses/creative-ai/music)
+- [AI-Native Virtual Worlds](courses/creative-ai/virtual-worlds)
 
 ### 🏢 Business AI
 Designed for business professionals who apply AI in daily workflows, processes and platforms.
 
-- **AI Intro for Business**  
-- **AI-Native Microsoft 365**  
-- **AI-Native Dynamics 365**  
-- **AI-Native Google Workspace**
-
----
+- [AI Intro for Business](courses/business-ai/intro)
+- [AI-Native Microsoft 365](courses/business-ai/microsoft-365)
+- [AI-Native Dynamics 365](courses/business-ai/dynamics-365)
+- [AI-Native Google Workspace](courses/business-ai/google-workspace)
 
 ### ⚙️ Technical AI
 Aimed at technical professionals responsible for infrastructure, platforms and automation.
 
-- **AI Intro for Technicians**  
-- **AI-Native Azure**  
-- **AI-Native AWS**  
-- **AI-Native DevOps**
-
----
+- [AI Intro for Technicians](courses/technical-ai/intro)
+- [AI-Native Azure](courses/technical-ai/azure)
+- [AI-Native AWS](courses/technical-ai/aws)
+- [AI-Native DevOps](courses/technical-ai/devops)
 
 ### 🧭 Management AI
 Focused on managers, architects and leaders who govern, scale and align AI within organizations.
 
-- **AI Intro for Managers**  
-- **AI-Native Operations**  
-- **AI-Native Agile**  
-- **AI-Native TOGAF**
+- [AI Intro for Managers](courses/management-ai/intro)
+- [AI-Native Operations](courses/management-ai/operations)
+- [AI-Native Agile](courses/management-ai/agile)
+- [AI-Native TOGAF](courses/management-ai/togaf)
 
 ---
 
