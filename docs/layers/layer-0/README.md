@@ -87,6 +87,21 @@ A filled template becomes a **Prompt Definition**, a living document that:
 
 ---
 
+## ✅ The Three Components of Layer 0
+
+Layer 0 produces three concrete artefacts that form the foundation for consistent and scalable prompt creation across an organization.
+
+| # | Component | Function |
+|---|-----------|----------|
+| **1** | **Prompt Template** | The domain template. A fixed selection of relevant questions from the Prompt Framework, tailored to a specific domain (for example HR, Marketing, Customer Service). |
+| **2** | **Prompt Definition** | The executable task. A fully completed Prompt Template for a specific use case, ready for testing, governance and deployment. |
+| **3** | **Naming Convention** | The standard for how Prompt Templates and Prompt Definitions are named, ensuring everything remains findable, consistent and scalable. |
+
+
+---
+
+
+
 ## 📊 Real-World Example
 
 ### Before: Vague Instruction
