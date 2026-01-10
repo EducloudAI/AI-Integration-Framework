@@ -85,6 +85,8 @@ A filled template becomes a **Prompt Definition**, a living document that:
 - Can be tested and validated
 - Serves as a single source of truth
 
+---
+
 ## 📊 Real-World Example
 
 ### Before: Vague Instruction
@@ -93,19 +95,24 @@ A filled template becomes a **Prompt Definition**, a living document that:
 ```
 
 ### After: Layer 0 Prompt Definition
-```yaml
-task_description: "Generate first-draft responses to customer inquiries about order status"
-intended_use: "Support ticket system during business hours (9-17 CET)"
-context: "E-commerce company with 10,000+ monthly orders, 2-day delivery promise"
-input: "Customer email text + order ID from database"
-output: "Professional, empathetic draft response (100-150 words) with tracking info"
-quality_criteria: "Must include: 1) Acknowledgement 2) Current status 3) Next steps 4) Contact option"
-human_oversight: "Customer service agent reviews and sends"
-success_criteria: "Reduces agent drafting time by 70%, maintains CSAT > 4.5/5"
-constraints: "No financial advice, no promises beyond policy, no personal data exposure"
-```
+### 📦 Example Prompt Definition (All 10 Tier‑1 Questions)
+
+| # | Question | Answer |
+|---|----------|---------|
+| **1** | **Task Description** | Generate first‑draft responses to customer inquiries about order status. |
+| **2** | **Intended Use** | Support ticket system during business hours (09:00–17:00 CET). |
+| **3** | **Non Intended Use** | - AI must not send final answers to customers<br>- AI must not make decisions without human review<br>- AI does not replace customer service staff |
+| **4** | **Context** | E‑commerce company with 10,000+ monthly orders and a 2‑day delivery promise. |
+| **5** | **Input** | - Customer email text<br>- Order ID from database (if available)<br>- Relevant customer service guidelines |
+| **6** | **Output** | Professional, empathetic draft response (100–150 words) including tracking information. |
+| **7** | **Quality Criteria** | - Acknowledgement of the customer's question<br>- Accurate current order status<br>- Clear next steps<br>- Contact option for follow‑up<br>- Tone must be friendly and professional |
+| **8** | **Human Oversight** | Customer service agent reviews, edits and sends the final response. |
+| **9** | **Success Criteria** | - Reduces agent drafting time by 70%<br>- Maintains CSAT above 4.5 out of 5<br>- Improves consistency across all customer responses |
+| **10** | **Constraints** | - No personal data exposure<br>- No promises beyond company policy<br>- Maximum of 2 response variations |
 
 **Result:** Consistent, reliable AI outputs that align with business goals.
+
+---
 
 ## 📁 Templates & Resources
 
