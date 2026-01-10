@@ -4,8 +4,7 @@
 Universal questions are not an adaptation of an existing method.  
 They are not a variation of Agile, TOGAF, ITIL or ISO.  
 
-They introduce something entirely new:  
-a thinking structure that works across every layer, every role and every domain.
+They introduce something entirely new: a thinking structure that spans all layers, components, roles and domains.
 
 This makes universal questions one of the most distinctive innovations in the AI Integration Framework.
 
