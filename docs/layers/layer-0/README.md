@@ -23,6 +23,41 @@ Layer 0 solves this by using a universal set of 25 Prompt Questions that work ac
 - **Retail:** Generate product descriptions
 - **Logistics:** Optimize delivery routes
 
+---
+
+
+## ✅ The Three Components of Layer 0
+
+Layer 0 produces three concrete artefacts that form the foundation for consistent and scalable prompt creation across an organization.
+
+| # | Component | Function |
+|---|-----------|----------|
+| **1** | **Prompt Template** | The domain template. A fixed selection of relevant questions from the Prompt Framework, tailored to a specific domain (for example HR, Marketing, Customer Service). |
+| **2** | **Prompt Definition** | The executable task. A fully completed Prompt Template for a specific use case, ready for testing, governance and deployment. |
+| **3** | **Naming Convention** | The standard for how Prompt Templates and Prompt Definitions are named, ensuring everything remains findable, consistent and scalable. |
+
+
+---
+
+## 🏷️ Naming Convention
+
+Layer 0 includes a standardized Naming Convention that ensures all Prompt Templates and Prompt Definitions are easy to find, maintain and scale across the organization. A consistent naming structure prevents duplication, supports governance and enables smooth integration with later layers such as version control, metadata and automation.
+
+A Naming Convention defines:
+
+- How Prompt Templates are named  
+- How Prompt Definitions are named  
+- How domains, versions and use cases are encoded  
+- How names remain readable for humans and predictable for systems  
+
+For the full specification, including examples and recommended patterns, see:
+
+➡️ [View the Naming Convention](naming-convention.md)
+
+
+---
+
+
 ## 🔧 The Prompt Framework: 25 Questions
 
 The core of Layer 0 is a structured questionnaire with **25 carefully designed questions**, divided into two tiers:
@@ -86,21 +121,6 @@ A filled template becomes a **Prompt Definition**, a living document that:
 - Serves as a single source of truth
 
 ---
-
-## ✅ The Three Components of Layer 0
-
-Layer 0 produces three concrete artefacts that form the foundation for consistent and scalable prompt creation across an organization.
-
-| # | Component | Function |
-|---|-----------|----------|
-| **1** | **Prompt Template** | The domain template. A fixed selection of relevant questions from the Prompt Framework, tailored to a specific domain (for example HR, Marketing, Customer Service). |
-| **2** | **Prompt Definition** | The executable task. A fully completed Prompt Template for a specific use case, ready for testing, governance and deployment. |
-| **3** | **Naming Convention** | The standard for how Prompt Templates and Prompt Definitions are named, ensuring everything remains findable, consistent and scalable. |
-
-
----
-
-
 
 ## 📊 Real-World Example
 
