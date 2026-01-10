@@ -8,8 +8,8 @@ Using one table ensures consistent column widths across the entire page.
 
 | Layer | #  | Activity                               | Component Produced                   |
 |-------|----|----------------------------------------|--------------------------------------|
-| **0 — Core** | 1  | Hierarchical prompt model              | Multi‑layered prompt architecture    |
-|  | 2  | Structured prompt templates            | Standardized prompt templates        |
+| **0 — Core** | 1  | Hierarchical prompt model              | Prompt Template    |
+|  | 2  | Structured prompt templates            | Prompt Definition        |
 |  | 3  | Naming conventions                     | Canonical naming system              |
 | **1 — Metadata & Governance** | 4  | Template metadata schema               | Metadata standard                    |
 |  | 5  | RACI roles matrix                      | Responsibility assignment model      |
