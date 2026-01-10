@@ -108,7 +108,6 @@ Universal questions are used in:
 The form of the output may change, but the thinking structure remains the same.
 
 ➡️ [Integration across the framework](framework-integration.md)  
-➡️ [Connection to the Prompt Framework](prompt-framework-link.md)
 
 ---
 
