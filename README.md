@@ -238,7 +238,7 @@ This elegance makes the framework accessible for all roles in an organization, w
 
 The AI Integration Framework is not only a conceptual and architectural model, but also the foundation for a comprehensive education program. All our courses are built directly on the AI Integration Framework, using the same layers, activities and core principles.
 
-➡️ [Explore the Introduction Courses](courses)
+➡️ [Explore the Courses](courses)
 
 ---
 
