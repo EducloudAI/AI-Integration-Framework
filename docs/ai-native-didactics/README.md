@@ -1,5 +1,5 @@
-## 📘 What Is AI Native Didactics  
-AI Native Didactics forms the educational foundation of the AI Integration Framework.  
+## 📘 What Is AI-Native Didactics  
+AI-Native Didactics forms the educational foundation of the AI Integration Framework.  
 It provides a clear and proven way to build AI skills across an entire organization, from employees and engineers to managers and leaders.  
 Where most AI programs rely on training, workshops or external expertise, this didactic layer integrates learning directly into the work itself.
 
@@ -9,7 +9,7 @@ It transforms the framework from a technical architecture into a learning standa
 ---
 
 ## 🧩 Learning Through Structure  
-At the heart of AI Native Didactics are two core elements:
+At the heart of AI-Native Didactics are two core elements:
 
 - **❓ Universal Questions**  
 - **🧱 The Prompt Framework**
@@ -49,7 +49,7 @@ By working with the Universal Questions and the Prompt Framework, teams develop 
 - 🏛️ governance awareness  
 
 
-These competencies are required for AI Native organizations and form the basis for safe and scalable AI adoption.
+These competencies are required for AI-Native organizations and form the basis for safe and scalable AI adoption.
 
 ---
 
@@ -63,7 +63,7 @@ This elegance makes the framework accessible for all roles in an organization, w
 ---
 
 ## 🌍 A Learning Standard for the AI Era  
-AI Native Didactics ensures that learning is not an add‑on but an integrated part of the framework.  
+AI-Native Didactics ensures that learning is not an add‑on but an integrated part of the framework.  
 It enables organizations to:
 
 - 🛡️ adopt AI safely and responsibly  
