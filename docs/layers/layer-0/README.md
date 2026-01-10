@@ -53,19 +53,17 @@ Additional questions cover:
 - **Version Control & Maintenance**
 - **Ethical Considerations**
 
-[View the complete 25-question list](prompt-questions.md)
+➡️ [View the complete 25-question list](prompt-questions.md)
 
+---
 
-## 🔧 The Prompt Framework:
+## 🔧 The Prompt Framework
 
 For a full explanation of the Prompt Framework, Prompt Templates and Prompt Definitions, see:
 
-[View the complete 25-question list](prompt-questions.md)
-→ Understanding the Prompt Framework (prompt-framework.md)
+➡️ [Discover the Prompt Framework](prompt-framework.md)
 
-
-
-
+---
 
 ## 🚀 How to Use the Framework
 
