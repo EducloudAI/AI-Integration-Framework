@@ -244,7 +244,7 @@ The AI Integration Framework is not only a conceptual and architectural model, b
 
 ## ⚡ Getting Started in 5 Minutes
 
-1.  **Understand the Core:** Start with **[Layer 0: The Prompt Framework](docs/layer-0-core/layer-0-core.md)**. This is the foundational tool for creating clear, reusable AI instructions.
+1.  **Understand the Core:** Start with **[Layer 0: The Prompt Framework](docs/layers/layer-0)**. This is the foundational tool for creating clear, reusable AI instructions.
 2.  **Assess Your Current State:** Use the **[AI Maturity Model Self-Assessment](docs/maturity-model/)** to identify your starting point and next steps.
 3.  **Implement Your First Layer:** Based on your assessment, pick the relevant template (e.g., Metadata Schema, Test Checklist) from the `/templates` folder and adapt it to a pilot project.
 4.  **Join the Community:** Have questions or want to share your use case? Open an [Issue](https://github.com/EducloudAI/AI-Integration-Framework/issues) or start a [Discussion](https://github.com/EducloudAI/AI-Integration-Framework/discussions).
