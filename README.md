@@ -107,7 +107,7 @@ Most AI initiatives focus on tools, models or isolated use cases.
 The AI Integration Framework takes a fundamentally different approach by acting as a meta framework: a unifying architecture that connects business, technology, governance and learning into one coherent system.  
 It translates recommendations into concrete actions, and actions into valuable, distinct components within the framework.
 
-The framework introduces twelve innovations that make it uniquely powerful.
+The framework introduces eight innovations that make it uniquely powerful.
 
 ---
 
@@ -182,43 +182,18 @@ No additional effort is required: learning happens through answering the questio
 
 ---
 
-### 8. Three Cross Cutting Frameworks  
-The framework is supported by three cross cutting frameworks that apply across every layer and component.  
-**Governance** connects AI usage to measurable business outcomes, KPIs and ROI.  
-**Maturity** defines organizational growth levels from level 0 to level 4.  
-**Competency** focuses on essential human skills such as analytical thinking, problem solving and creativity.  
+### 8. Meta‑Framework Architecture
+The framework is built as a meta‑framework: a universal, extensible architecture that remains stable across technologies, sectors and future AI generations. This architectural layer provides the foundation for several core principles that operate across all layers of the framework. These principles are elaborated in their own dedicated sections:
 
-Together, these perspectives ensure that AI adoption remains controlled, measurable and human centered.
+**Three Cross‑Cutting Frameworks** – Governance, Maturity and Competency models that span all layers
 
-➡️ [Explore the Three Cross Cutting Frameworks](docs/cross-cutting-frameworks)
+**AI‑Native Suite** – how the framework integrates naturally with all organizational domains
 
----
+**Cross‑Sector Adoption** – applicability across industries, from education to healthcare
 
-### 9. AI‑Native Suite  
-The framework integrates seamlessly with all organizational domains and methods.
-It strengthens business processes, IT operations, development workflows, enterprise architecture, governance models and existing management methods.
+**Timeless AI Architecture** – future‑proof design that remains valid across AI generations
 
-➡️ [Explore the AI‑Native ecosystem](docs/ai-native/README.md)
-
----
-
-### 10. Flexible Adoption Paths for Every Organization
-Our framework works far beyond technology teams, in educational curricula, healthcare diagnostics, legal research, financial risk assessment, government services, and creative workflows. Wherever AI is used, our governance architecture provides structure, safety, and measurable value.
-
-➡️ [Discover Cross‑Sector Applications](docs/adoption-paths/)
-
----
-
-### 11. Timeless AI Architecture  
-25 Universal Questions that remain valid across all AI generations. Protect your governance investment from obsolescence as AI evolves from prompts to agents, quantum systems, and neural interfaces.
-
-➡️ [Discover the Future‑Agnostic Architecture](docs/ai-generations-architecture)
-
----
-
-### 12. Meta‑Framework Architecture
-The framework is built as a meta‑framework: a universal, extensible architecture that remains stable across technologies, sectors and future AI generations.
-This design principle enables several of the framework’s core capabilities, including the AI‑Native Suite, Timeless AI Architecture, Cross‑Sector Adoption and the Three Cross‑Cutting Frameworks.
+Together, these elements form the overarching meta‑architecture that ensures long‑term stability, extensibility and coherence across the entire AI Integration Framework.
 
 ➡️ [Explore the Meta‑Framework Architecture](docs/meta-framework/)
 
