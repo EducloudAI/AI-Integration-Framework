@@ -33,7 +33,7 @@ Because the AI Integration Framework is a meta‑framework, the following become
 ### **Three Cross‑Cutting Frameworks**  
 Governance, Maturity and Competency models that apply consistently across every layer and component.  
 
-➡️ [Explore the Three Cross‑Cutting Frameworks](../cross-cutting-frameworks/README.md)
+➡️ [Explore the Three Cross‑Cutting Frameworks](docs/cross-cutting-frameworks)
 
 ### **AI‑Native Suite**  
 How the framework integrates naturally with business processes, IT operations, development workflows, enterprise architecture and governance models.  
