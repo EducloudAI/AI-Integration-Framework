@@ -38,17 +38,17 @@ Governance, Maturity and Competency models that apply consistently across every 
 ### **AI‑Native Suite**  
 How the framework integrates naturally with business processes, IT operations, development workflows, enterprise architecture and governance models.  
 
-➡️ [Explore the AI‑Native Suite](../ai-native/README.md)
+➡️ [Explore the AI‑Native Suite](../ai-native)
 
 ### **Cross‑Sector Adoption**  
 A single architecture that works in education, healthcare, government, finance, legal research, creative industries and beyond.  
 
-➡️ [Explore Cross‑Sector Adoption](../adoption-paths/README.md)
+➡️ [Explore Cross‑Sector Adoption](../adoption-paths)
 
 ### **Timeless AI Architecture**
 A future‑proof architectural principle that remains valid across all AI generations, from today’s prompt‑based systems to autonomous agents, quantum‑enhanced intelligence and future brain‑interface models. 
 
-➡️ [Explore the Timeless AI Architecture](../ai-generations-architecture/README.md)
+➡️ [Explore the Timeless AI Architecture](../ai-generations-architecture)
 
 These capabilities are not add‑ons. They are direct consequences of the meta‑framework design.
 
